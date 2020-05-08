@@ -1,15 +1,48 @@
 Listing,Make,Year_model,Price,Milage,Exterior_color,Interior_color,Transmission,Drivetrain
 2013 INFINITI JX35 Base,INFINITI,2013,"$13,888","73,953",White,Brown,CVT,AWD
+2006 Suzuki Grand Vitara,Suzuki,2006,"$3,995","121,390",Red,Gray,Automatic,4x4/4-wheel drive
+2012 INFINITI FX50 Base,INFINITI,2012,"$13,995","101,158",Black,Black,Automatic,AWD
+2012 Honda Odyssey EX-L,Honda,2012,"$10,900","57,070",Black,Gray,Automatic,FWD
 2012 INFINITI QX56 Base,INFINITI,2012,"$13,495","137,301",Silver,Gray,Automatic,4x4/4-wheel drive
+2011 Cadillac SRX Luxury Collection,Cadillac,2011,"$4,495","166,480",Black,Black,Automatic,AWD
 2005 Land Rover LR3 SE,Land,2005,"$3,999","132,989",Black,Black,Automatic,4x4/4-wheel drive
 2006 Land Rover LR3,Land,2006,"$4,250","118,610",Red,Beige,Automatic,4x4/4-wheel drive
 2013 Nissan Sentra SR,Nissan,2013,"$3,999","64,547",Black,Black,CVT,FWD
 2001 Mazda Tribute LX V6,Mazda,2001,"$1,900","117,029",Blue,Gray,Automatic,4x4/4-wheel drive
+2010 BMW 650 i,BMW,2010,"$8,995","8,000",White,Beige,Automatic,RWD
+2012 BMW 650 i,BMW,2012,"$15,499","83,262",Gray,Red,Automatic,RWD
+2014 Toyota Avalon XLE,Toyota,2014,"$9,495","60,088",Black,Other,Automatic,FWD
+2005 Saturn Ion 2,Saturn,2005,"$1,900","123,000",Black,Beige,Manual,FWD
 2006 GMC Envoy Denali,GMC,2006,"$3,995","113,552",Red,Gray,Automatic,4x4/4-wheel drive
+2009 Nissan Maxima 3.5 SV,Nissan,2009,"$4,995","87,491",Black,Gray,CVT,FWD
+2003 Land Rover Discovery HSE,Land,2003,"$3,795","97,126",Black,Beige,Automatic,4x4/4-wheel drive
 2012 Honda Civic Hybrid,Honda,2012,"$4,699","109,961",Gray,Other,CVT,FWD
+2003 GMC Sonoma SLS Crew Cab,GMC,2003,"$3,995","183,412",White,Black,Automatic,4x4/4-wheel drive
+2011 Chevrolet Equinox 2LT,Chevrolet,2011,"$5,093","80,795",Black,Other,Automatic,FWD
+2005 Bentley Continental GT,Bentley,2005,"$29,995","29,987",Green,Black,Automatic,AWD
+2002 Mercury Grand Marquis LS Premium,Mercury,2002,"$3,997","57,492",Red,Beige,Automatic,RWD
+2014 Nissan Murano CrossCabriolet Base,Nissan,2014,"$15,399","39,535",Red,Black,CVT,AWD
+2005 Toyota Matrix XR,Toyota,2005,"$6,995","66,627",Silver,Black,Automatic,AWD
+2011 Hyundai Equus Ultimate,Hyundai,2011,"$14,897","82,137",Black,Beige,Automatic,RWD
+2010 Ford Explorer Sport Trac Limited,Ford,2010,"$16,999","118,618",Black,Black,Automatic,AWD
+2000 Chevrolet Express 1500 Cargo,Chevrolet,2000,"$6,999","132,364",Gray,Gray,Automatic,RWD
+2004 Chevrolet Astro,Chevrolet,2004,"$6,295","86,232",Blue,Gray,Automatic,RWD
+2011 Aston Martin Rapide Luxe,Aston,2011,"$59,900","22,300",White,Red,Automatic,RWD
+2005 Chrysler Sebring Limited,Chrysler,2005,"$3,495","71,086",Black,Gray,Automatic,FWD
+2012 Toyota Prius v Five,Toyota,2012,"$11,481","73,463",Blue,Gray,CVT,FWD
 2011 Mercury Grand Marquis LS,Mercury,2011,"$3,900","103,558",Gray,Silver,Automatic,RWD
 2017 Acura MDX Sport Hybrid 3.0L w/Technology Package,Acura,2017,"$26,129","61,058",Black,Black,Automatic,AWD
+2010 Kia Forte SX,Kia,2010,"$3,990","96,130",Black,Black,Automatic,FWD
+2016 Mercedes-Benz AMG GL AMG GL 63 4MATIC,Mercedes-Benz,2016,"$40,995","64,538",Black,Black,Automatic,AWD
 2007 Audi Q7 4.2 Premium,Audi,2007,"$5,366","132,704",White,Beige,Automatic,AWD
+2012 Mercedes-Benz R 350 4MATIC,Mercedes-Benz,2012,"$11,985","115,721",White,Beige,Automatic,AWD
+2018 Dodge Durango GT,Dodge,2018,"$21,400","26,990",Silver,Black,Automatic,RWD
+2006 Acura RL,Acura,2006,"$6,495","100,585",Beige,Beige,Automatic,AWD
+2015 MINI Convertible Cooper S,MINI,2015,"$8,900","21,100",Beige,Black,Automatic,FWD
+2008 Jaguar XJ8,Jaguar,2008,"$9,995","50,120",White,Other,Automatic,RWD
+2016 Nissan Sentra SR,Nissan,2016,"$7,988","35,931",Black,Gray,CVT,FWD
+2010 Acura ZDX,Acura,2010,"$13,495","98,665",Gray,Black,Automatic,AWD
+2011 Honda Accord Crosstour EX-L,Honda,2011,"$10,777","75,668",White,White,Automatic,FWD
 2019 Cadillac XT4 Sport,Cadillac,2019,"$25,500",231,Black,Other,Automatic,FWD
 2015 Mitsubishi Outlander Sport ES,Mitsubishi,2015,"$8,500","20,323",Silver,Black,CVT,FWD
 2020 Tesla Model 3 Standard Range Plus,Tesla,2020,"$33,900",130,Other,Other,Automatic,RWD
@@ -17,15 +50,6 @@ Listing,Make,Year_model,Price,Milage,Exterior_color,Interior_color,Transmission,
 2019 Cadillac XT4 Premium Luxury,Cadillac,2019,"$25,500",717,Blue,Black,Automatic,FWD
 2019 Mercedes-Benz AMG GLE 43 4MATIC Coupe,Mercedes-Benz,2019,"$24,900","3,847",Other,Other,Automatic,AWD
 2019 Cadillac CT6 Luxury,Cadillac,2019,"$34,900","3,369",White,Other,Automatic,AWD
-2015 Chrysler 200 Limited,Chrysler,2015,"$6,900","75,473",Gray,Black,Automatic,FWD
-2005 Dodge Magnum R/T,Dodge,2005,"$5,995","93,000",Silver,Gray,Automatic,RWD
-2010 BMW 650 i,BMW,2010,"$8,995","8,000",White,Beige,Automatic,RWD
-2009 Nissan Maxima 3.5 SV,Nissan,2009,"$4,995","87,491",Black,Gray,CVT,FWD
-2003 GMC Sonoma SLS Crew Cab,GMC,2003,"$3,995","183,412",White,Black,Automatic,4x4/4-wheel drive
-2002 Mercury Grand Marquis LS Premium,Mercury,2002,"$3,997","57,492",Red,Beige,Automatic,RWD
-2005 Toyota Matrix XR,Toyota,2005,"$6,995","66,627",Silver,Black,Automatic,AWD
-2014 Nissan Murano CrossCabriolet Base,Nissan,2014,"$15,399","39,535",Red,Black,CVT,AWD
-2004 Chevrolet Astro,Chevrolet,2004,"$6,295","86,232",Blue,Gray,Automatic,RWD
 2019 Chevrolet Traverse LT Leather,Chevrolet,2019,"$25,900",41,Black,Black,Automatic,AWD
 2012 Hyundai Sonata GLS,Hyundai,2012,"$6,500","44,280",Red,Beige,Automatic,FWD
 2019 Volkswagen Jetta GLI 2.0T S,Volkswagen,2019,"$16,500",16,White,Black,Manual,FWD
@@ -33,57 +57,13 @@ Listing,Make,Year_model,Price,Milage,Exterior_color,Interior_color,Transmission,
 2019 Dodge Journey SE,Dodge,2019,"$16,500",20,Black,Other,Automatic,FWD
 2006 Dodge Magnum SXT,Dodge,2006,"$5,495","96,180",Black,Gray,Automatic,AWD
 2019 Mazda Mazda3 AWD w/Premium Package,Mazda,2019,"$20,900","10,573",Black,Red,Automatic,AWD
-2016 Acura RDX FWD w/Tech,Acura,2016,"$18,990","45,301",Gray,Black,Automatic,FWD
-2017 Audi RS 3 2.5T,Audi,2017,"$44,995","19,933",Gray,Black,Automatic,AWD
-2019 Honda Passport Sport,Honda,2019,"$28,515","13,789",Black,Black,Automatic,AWD
-2019 Lexus UX 200,Lexus,2019,"$27,987","7,262",Black,Silver,CVT,FWD
-2007 Cadillac DTS V8,Cadillac,2007,"$5,490","71,216",White,Beige,Automatic,FWD
-2003 Volkswagen New Beetle GLS 1.8T,Volkswagen,2003,"$3,499","74,174",Black,Black,Manual,FWD
-2006 Suzuki Grand Vitara,Suzuki,2006,"$3,995","121,390",Red,Gray,Automatic,4x4/4-wheel drive
-2012 BMW 650 i,BMW,2012,"$15,499","83,262",Gray,Red,Automatic,RWD
-2011 Chevrolet Equinox 2LT,Chevrolet,2011,"$5,093","80,795",Black,Other,Automatic,FWD
-2011 Aston Martin Rapide Luxe,Aston,2011,"$59,900","22,300",White,Red,Automatic,RWD
-2005 Chrysler Sebring Limited,Chrysler,2005,"$3,495","71,086",Black,Gray,Automatic,FWD
-2010 Kia Forte SX,Kia,2010,"$3,990","96,130",Black,Black,Automatic,FWD
-2012 Mercedes-Benz R 350 4MATIC,Mercedes-Benz,2012,"$11,985","115,721",White,Beige,Automatic,AWD
-2018 Dodge Durango GT,Dodge,2018,"$21,400","26,990",Silver,Black,Automatic,RWD
 2006 INFINITI FX45,INFINITI,2006,"$5,990","137,048",Silver,Black,Automatic,AWD
 2017 Hyundai Accent SE,Hyundai,2017,"$5,995","16,600",Silver,Gray,Automatic,FWD
 2018 Chevrolet Impala 2LZ,Chevrolet,2018,"$13,500","35,274",Silver,Black,Automatic,FWD
 2018 Dodge Grand Caravan SXT,Dodge,2018,"$12,900","27,452",Silver,Black,Automatic,FWD
-2005 Subaru Baja Sport,Subaru,2005,"$9,590","81,914",Silver,Gray,Manual,AWD
-2017 Jaguar XE 25t,Jaguar,2017,"$17,000","6,000",White,Other,Automatic,RWD
-2006 Cadillac XLR,Cadillac,2006,"$16,000","13,010",Red,Beige,Automatic,RWD
-2011 Toyota Avalon Limited,Toyota,2011,"$9,795","87,848",Blue,Gray,Automatic,FWD
-2005 Ford Excursion Limited,Ford,2005,"$9,995","133,735",Brown,Beige,Automatic,4x4/4-wheel drive
-2007 Chrysler Crossfire Limited,Chrysler,2007,"$14,488","12,014",Other,Gray,Manual,RWD
-2007 Ford Explorer Sport Trac Limited,Ford,2007,"$4,995","132,250",Red,Beige,Automatic,4x4/4-wheel drive
-2007 Lotus Elise Type 72D,Lotus,2007,"$39,900","11,750",Black,Black,Manual,RWD
-2012 INFINITI FX50 Base,INFINITI,2012,"$13,995","101,158",Black,Black,Automatic,AWD
-2012 Honda Odyssey EX-L,Honda,2012,"$10,900","57,070",Black,Gray,Automatic,FWD
-2011 Cadillac SRX Luxury Collection,Cadillac,2011,"$4,495","166,480",Black,Black,Automatic,AWD
-2014 Toyota Avalon XLE,Toyota,2014,"$9,495","60,088",Black,Other,Automatic,FWD
-2003 Land Rover Discovery HSE,Land,2003,"$3,795","97,126",Black,Beige,Automatic,4x4/4-wheel drive
-2011 Hyundai Equus Ultimate,Hyundai,2011,"$14,897","82,137",Black,Beige,Automatic,RWD
-2010 Ford Explorer Sport Trac Limited,Ford,2010,"$16,999","118,618",Black,Black,Automatic,AWD
-2012 Toyota Prius v Five,Toyota,2012,"$11,481","73,463",Blue,Gray,CVT,FWD
-2006 Acura RL,Acura,2006,"$6,495","100,585",Beige,Beige,Automatic,AWD
-2015 MINI Convertible Cooper S,MINI,2015,"$8,900","21,100",Beige,Black,Automatic,FWD
-2008 Jaguar XJ8,Jaguar,2008,"$9,995","50,120",White,Other,Automatic,RWD
-2016 Nissan Sentra SR,Nissan,2016,"$7,988","35,931",Black,Gray,CVT,FWD
-2010 Acura ZDX,Acura,2010,"$13,495","98,665",Gray,Black,Automatic,AWD
 2016 Nissan NV Cargo NV2500 HD SV V6/SV V8,Nissan,2016,"$12,500","58,936",White,Gray,Automatic,RWD
 2019 Nissan NV Passenger NV3500 HD SL V8,Nissan,2019,"$26,500",25,Black,Other,Automatic,RWD
 2016 Land Rover Range Rover Sport Supercharged HSE,Land,2016,"$25,900","44,095",Black,Black,Automatic,4x4/4-wheel drive
-2016 Chevrolet Malibu LS,Chevrolet,2016,"$9,999","45,750",Black,Black,Automatic,FWD
-2013 Jaguar XF SC,Jaguar,2013,"$14,643","63,552",Black,Other,Automatic,AWD
-2008 Lexus LS 460 L,Lexus,2008,"$17,288","35,626",White,Other,Automatic,RWD
-2008 Saturn Vue XR,Saturn,2008,"$2,995","100,430",Red,Beige,Automatic,AWD
-2005 Saturn Ion 2,Saturn,2005,"$1,900","123,000",Black,Beige,Manual,FWD
-2005 Bentley Continental GT,Bentley,2005,"$29,995","29,987",Green,Black,Automatic,AWD
-2000 Chevrolet Express 1500 Cargo,Chevrolet,2000,"$6,999","132,364",Gray,Gray,Automatic,RWD
-2016 Mercedes-Benz AMG GL AMG GL 63 4MATIC,Mercedes-Benz,2016,"$40,995","64,538",Black,Black,Automatic,AWD
-2011 Honda Accord Crosstour EX-L,Honda,2011,"$10,777","75,668",White,White,Automatic,FWD
 2018 BMW X2 xDrive28i,BMW,2018,"$23,500","13,161",White,Other,Automatic,AWD
 2008 Dodge Nitro SLT,Dodge,2008,"$3,995","143,415",White,Gray,Automatic,4x4/4-wheel drive
 2019 RAM 1500 Big Horn,RAM,2019,"$32,500",66,Black,Black,Automatic,4x4/4-wheel drive
@@ -92,90 +72,830 @@ Listing,Make,Year_model,Price,Milage,Exterior_color,Interior_color,Transmission,
 2017 Chevrolet Cruze LT,Chevrolet,2017,"$9,500","2,990",Red,Gray,Automatic,FWD
 2019 Volvo S60 T5 Momentum,Volvo,2019,"$23,900",11,White,Beige,Automatic,FWD
 2019 Chevrolet Malibu Premier,Chevrolet,2019,"$16,500",926,White,Black,Automatic,FWD
+2005 Subaru Baja Sport,Subaru,2005,"$9,590","81,914",Silver,Gray,Manual,AWD
+2017 Jaguar XE 25t,Jaguar,2017,"$17,000","6,000",White,Other,Automatic,RWD
+2016 Chevrolet Malibu LS,Chevrolet,2016,"$9,999","45,750",Black,Black,Automatic,FWD
 2015 Toyota Camry Hybrid XLE,Toyota,2015,"$11,495","33,201",White,Gray,CVT,FWD
+2016 Acura RDX FWD w/Tech,Acura,2016,"$18,990","45,301",Gray,Black,Automatic,FWD
+2017 Audi RS 3 2.5T,Audi,2017,"$44,995","19,933",Gray,Black,Automatic,AWD
 2017 Audi S3 2.0T Premium Plus,Audi,2017,"$24,900","44,164",White,Black,Automatic,AWD
+2013 Jaguar XF SC,Jaguar,2013,"$14,643","63,552",Black,Other,Automatic,AWD
 2012 Mercedes-Benz CL 550 4MATIC,Mercedes-Benz,2012,"$26,531","59,710",Black,Black,Automatic,AWD
+2008 Lexus LS 460 L,Lexus,2008,"$17,288","35,626",White,Other,Automatic,RWD
+2006 Cadillac XLR,Cadillac,2006,"$16,000","13,010",Red,Beige,Automatic,RWD
 2004 Pontiac GTO,Pontiac,2004,"$14,388","11,677",Red,Red,Automatic,RWD
 2014 INFINITI Q50 Hybrid Premium,INFINITI,2014,"$16,495","55,771",Black,Black,Automatic,AWD
+2019 Honda Passport Sport,Honda,2019,"$28,515","13,789",Black,Black,Automatic,AWD
+2015 Chrysler 200 Limited,Chrysler,2015,"$6,900","75,473",Gray,Black,Automatic,FWD
+2005 Dodge Magnum R/T,Dodge,2005,"$5,995","93,000",Silver,Gray,Automatic,RWD
+2019 Lexus UX 200,Lexus,2019,"$27,987","7,262",Black,Silver,CVT,FWD
+2011 Toyota Avalon Limited,Toyota,2011,"$9,795","87,848",Blue,Gray,Automatic,FWD
 2010 Toyota Venza,Toyota,2010,"$6,900","110,471",White,White,Automatic,FWD
+2007 Cadillac DTS V8,Cadillac,2007,"$5,490","71,216",White,Beige,Automatic,FWD
+2005 Ford Excursion Limited,Ford,2005,"$9,995","133,735",Brown,Beige,Automatic,4x4/4-wheel drive
+2007 Chrysler Crossfire Limited,Chrysler,2007,"$14,488","12,014",Other,Gray,Manual,RWD
+2007 Ford Explorer Sport Trac Limited,Ford,2007,"$4,995","132,250",Red,Beige,Automatic,4x4/4-wheel drive
+2008 Saturn Vue XR,Saturn,2008,"$2,995","100,430",Red,Beige,Automatic,AWD
 2015 INFINITI Q60 IPL Base,INFINITI,2015,"$23,900","30,041",White,Gray,Automatic,RWD
+2003 Volkswagen New Beetle GLS 1.8T,Volkswagen,2003,"$3,499","74,174",Black,Black,Manual,FWD
+2007 Lotus Elise Type 72D,Lotus,2007,"$39,900","11,750",Black,Black,Manual,RWD
+2018 Lexus LS 500 Base,Lexus,2018,"$47,995","45,115",Silver,Black,Automatic,AWD
 2015 Hyundai Genesis Coupe 3.8 R-Spec,Hyundai,2015,"$13,990","67,010",Gray,Black,Manual,RWD
 2015 Nissan NV Cargo NV1500 SV V6,Nissan,2015,"$11,995","92,661",White,Other,Automatic,RWD
 2017 Nissan Altima 2.5 SV,Nissan,2017,"$11,981","43,688",Black,Black,CVT,FWD
 2012 Jaguar XF Base,Jaguar,2012,"$13,972","62,394",Blue,Other,Automatic,RWD
+2014 INFINITI Q60 IPL Base,INFINITI,2014,"$21,559","54,071",White,Red,Automatic,RWD
+2016 Nissan Sentra SR,Nissan,2016,"$8,599","38,194",White,Gray,CVT,FWD
+2017 Honda HR-V EX-L w/Navigation,Honda,2017,"$14,499","23,664",Black,Black,CVT,AWD
+2010 Lexus LS 460 Base,Lexus,2010,"$13,499","83,013",Silver,Gray,Automatic,AWD
+2007 Lexus LS 460 L,Lexus,2007,"$7,900","191,187",Black,Other,Automatic,RWD
 2015 GMC Acadia Denali,GMC,2015,"$13,942","61,879",Silver,Black,Automatic,AWD
 2006 Mitsubishi Lancer Evolution IX,Mitsubishi,2006,"$25,999","95,225",Blue,Black,Manual,AWD
 2001 Ford Explorer Sport Trac,Ford,2001,"$3,900","92,416",Beige,Beige,Automatic,4x4/4-wheel drive
+2012 Nissan GT-R Black Edition,Nissan,2012,"$59,999","37,950",Black,Black,Automatic,AWD
+2013 Ford Focus SE,Ford,2013,"$4,499","82,109",Gray,Beige,Automatic,FWD
 2013 Nissan Juke NISMO,Nissan,2013,"$8,000","66,134",Red,Black,CVT,FWD
 2007 Acura TSX,Acura,2007,"$2,999","154,000",Gray,Other,Manual,FWD
+2019 Hyundai Veloster Turbo R-Spec,Hyundai,2019,"$13,900","38,447",Gray,Black,Manual,FWD
+2011 Acura TL Technology,Acura,2011,"$5,995","110,000",Black,Other,Automatic,AWD
 2008 Maserati GranTurismo,Maserati,2008,"$22,495","43,050",Gray,Brown,Automatic,RWD
 2011 Chevrolet Camaro 1SS,Chevrolet,2011,"$12,295","71,451",Red,Black,Automatic,RWD
-2014 INFINITI QX60 Base,INFINITI,2014,"$12,995","56,275",White,Black,CVT,AWD
-2016 Mercedes-Benz AMG GLA AMG GLA 45 4MATIC,Mercedes-Benz,2016,"$29,395","37,036",Black,Black,Automatic,AWD
-2015 Nissan Titan SV,Nissan,2015,"$16,500","27,182",Black,Beige,Automatic,4x4/4-wheel drive
-2018 Chevrolet Equinox 1LT,Chevrolet,2018,"$13,500","13,924",Silver,Black,Automatic,AWD
-2016 Land Rover Range Rover Evoque SE,Land,2016,"$14,900","73,473",White,Beige,Automatic,4x4/4-wheel drive
-2015 Scion FR-S,Scion,2015,"$13,999","9,189",Orange,Black,Manual,RWD
-2015 Subaru BRZ Series.Blue,Subaru,2015,"$19,996","35,692",White,Black,Manual,RWD
-2010 Mazda Mazda5 Grand Touring,Mazda,2010,"$5,495","114,154",Black,Black,Automatic,FWD
-2006 Mercury Milan V6 Premier,Mercury,2006,"$4,899","128,150",Black,Black,Automatic,FWD
-2010 Lexus LS 460 Base,Lexus,2010,"$13,499","83,013",Silver,Gray,Automatic,AWD
 2010 Dodge Nitro Detonator,Dodge,2010,"$8,495","127,714",Black,Other,Automatic,4x4/4-wheel drive
 2012 Nissan Murano CrossCabriolet Base,Nissan,2012,"$14,895","47,763",Gray,Black,CVT,AWD
+2010 Acura ZDX,Acura,2010,"$13,895","115,511",Gray,Beige,Automatic,AWD
+2007 INFINITI G35 Base,INFINITI,2007,"$9,895","75,918",White,Gray,Manual,RWD
+2001 Honda S2000,Honda,2001,"$17,895","66,660",Red,Other,Manual,RWD
+2014 Ford Fusion SE,Ford,2014,"$7,895","52,223",Black,Other,Automatic,FWD
+2017 BMW 430 i xDrive,BMW,2017,"$20,895","28,557",Red,Black,Automatic,AWD
 2020 Lincoln Aviator Standard,Lincoln,2020,"$59,999","1,400",Blue,Beige,Automatic,AWD
 2010 Mercedes-Benz R 350 4MATIC,Mercedes-Benz,2010,"$10,895","75,898",Silver,Gray,Automatic,AWD
+2008 Chevrolet Cobalt LS,Chevrolet,2008,"$5,499","36,146",Blue,Gray,Automatic,FWD
+2009 Bentley Continental Flying Spur,Bentley,2009,"$37,995","45,290",Red,Other,Automatic,AWD
+2007 Aston Martin V8 Vantage,Aston,2007,"$41,995","9,493",Silver,Other,Manual,RWD
+2011 Ford E250 Cargo,Ford,2011,"$9,497","120,813",White,Gray,Automatic,RWD
+2014 INFINITI QX60 Base,INFINITI,2014,"$12,995","56,275",White,Black,CVT,AWD
 2003 Subaru Baja,Subaru,2003,"$6,495","158,911",Other,Gray,Automatic,AWD
 2003 GMC Safari,GMC,2003,"$5,400","142,016",Red,Beige,Automatic,RWD
+2004 Ford E150 E-150,Ford,2004,"$13,695","39,397",White,Beige,Automatic,RWD
+2017 Volkswagen CC 2.0T R-Line Executive,Volkswagen,2017,"$21,995","24,915",Black,Black,Automatic,FWD
+2013 Audi A7 3.0T Premium,Audi,2013,"$19,995","40,000",Gray,Gray,Automatic,FWD
+2003 Lincoln Navigator Ultimate,Lincoln,2003,"$1,900","147,519",White,Beige,Automatic,4x4/4-wheel drive
+2015 BMW i8 Base,BMW,2015,"$59,950","21,609",Gray,Other,Automatic,AWD
 2011 Dodge Nitro Heat,Dodge,2011,"$11,997","37,112",Gray,Gray,Automatic,4x4/4-wheel drive
 2003 GMC Envoy XL SLT,GMC,2003,"$1,995","162,185",Black,Black,Automatic,4x4/4-wheel drive
 2006 Nissan Quest 3.5 SE,Nissan,2006,"$2,495","118,923",Black,Gray,Automatic,FWD
 2019 Land Rover Range Rover Velar P250 Base,Land,2019,"$37,988","14,284",White,Black,Automatic,4x4/4-wheel drive
-2018 Ford Fusion SE,Ford,2018,"$10,900","11,404",Black,Black,Automatic,FWD
-2019 Nissan Maxima 3.5 Platinum,Nissan,2019,"$25,900",13,Black,Other,CVT,FWD
-2008 Dodge Sprinter HIGH ROOF 170-IN. WB EXT,Dodge,2008,"$13,995","143,875",Gray,Black,Automatic,RWD
-2014 Nissan Sentra SV,Nissan,2014,"$5,900","74,752",Silver,Black,CVT,FWD
-2017 Volvo XC90 Hybrid T8 Inscription,Volvo,2017,"$41,915","28,189",Black,Orange,Automatic,AWD
-2020 Kia Telluride SX,Kia,2020,"$45,999","10,191",Green,Gray,Automatic,AWD
-2018 Honda Civic Type R Touring,Honda,2018,"$33,995","5,527",Gray,Black,Manual,FWD
-2009 Mercury Grand Marquis LS,Mercury,2009,"$9,998","34,815",Silver,Gray,Automatic,RWD
-2016 Hyundai Equus Signature,Hyundai,2016,"$20,097","61,726",Gray,Black,Automatic,RWD
-2018 Lexus LS 500 Base,Lexus,2018,"$47,995","45,115",Silver,Black,Automatic,AWD
-2014 INFINITI Q60 IPL Base,INFINITI,2014,"$21,559","54,071",White,Red,Automatic,RWD
-2016 Nissan Sentra SR,Nissan,2016,"$8,599","38,194",White,Gray,CVT,FWD
-2012 Nissan GT-R Black Edition,Nissan,2012,"$59,999","37,950",Black,Black,Automatic,AWD
-2019 Hyundai Veloster Turbo R-Spec,Hyundai,2019,"$13,900","38,447",Gray,Black,Manual,FWD
-2010 Acura ZDX,Acura,2010,"$13,895","115,511",Gray,Beige,Automatic,AWD
-2004 Ford E150 E-150,Ford,2004,"$13,695","39,397",White,Beige,Automatic,RWD
 2006 Pontiac GTO,Pontiac,2006,"$17,666","34,626",Silver,Black,Automatic,RWD
 2018 Audi S6 4.0T Premium Plus,Audi,2018,"$35,900","11,716",Silver,Red,Automatic,AWD
+2005 Land Rover LR3 SE,Land,2005,"$4,995","151,290",Black,Black,Automatic,4x4/4-wheel drive
+2004 Saab 9-3 Aero,Saab,2004,"$4,895","77,326",Gray,Gray,Manual,FWD
+2019 MINI Convertible Cooper,MINI,2019,"$13,888","46,152",Gray,Black,Automatic,FWD
+2014 GMC Terrain SLE-1,GMC,2014,"$5,990","64,459",Beige,Gray,Automatic,AWD
+2016 Mercedes-Benz AMG GLA AMG GLA 45 4MATIC,Mercedes-Benz,2016,"$29,395","37,036",Black,Black,Automatic,AWD
+2015 Nissan Titan SV,Nissan,2015,"$16,500","27,182",Black,Beige,Automatic,4x4/4-wheel drive
+2018 Chevrolet Equinox 1LT,Chevrolet,2018,"$13,500","13,924",Silver,Black,Automatic,AWD
+2016 Land Rover Range Rover Evoque SE,Land,2016,"$14,900","73,473",White,Beige,Automatic,4x4/4-wheel drive
+2018 Ford Fusion SE,Ford,2018,"$10,900","11,404",Black,Black,Automatic,FWD
+2019 Nissan Maxima 3.5 Platinum,Nissan,2019,"$25,900",13,Black,Other,CVT,FWD
 2018 Buick Encore Preferred II,Buick,2018,"$12,900",406,Red,Other,Automatic,FWD
 2018 Chevrolet Tahoe Premier,Chevrolet,2018,"$43,500","21,946",Other,Other,Automatic,4x4/4-wheel drive
 2016 Maserati GranTurismo Sport,Maserati,2016,"$43,875","31,968",Black,Red,Automatic,RWD
 2019 Land Rover Discovery Sport HSE,Land,2019,"$29,900","7,299",White,Black,Automatic,4x4/4-wheel drive
 2013 Dodge Dart Limited/GT,Dodge,2013,"$5,995","112,884",Black,Black,Automatic,FWD
 2017 Subaru Crosstrek 2.0i Premium,Subaru,2017,"$13,900","30,297",White,Black,CVT,AWD
-2018 Toyota Camry Hybrid LE,Toyota,2018,"$15,998","78,270",White,Other,CVT,FWD
-2012 Ford Focus SEL,Ford,2012,"$3,995","104,100",Red,Black,Automatic,FWD
-2017 Audi RS 7 4.0T Prestige,Audi,2017,"$51,288","59,425",Black,Black,Automatic,AWD
-2011 Buick Regal CXL Turbo,Buick,2011,"$6,950","88,000",Black,Black,Manual,FWD
-2001 Mercury Grand Marquis GS,Mercury,2001,"$3,998","54,932",Silver,Gray,Automatic,RWD
-2017 Honda HR-V EX-L w/Navigation,Honda,2017,"$14,499","23,664",Black,Black,CVT,AWD
-2007 Lexus LS 460 L,Lexus,2007,"$7,900","191,187",Black,Other,Automatic,RWD
-2013 Ford Focus SE,Ford,2013,"$4,499","82,109",Gray,Beige,Automatic,FWD
-2007 INFINITI G35 Base,INFINITI,2007,"$9,895","75,918",White,Gray,Manual,RWD
-2001 Honda S2000,Honda,2001,"$17,895","66,660",Red,Other,Manual,RWD
-2008 Chevrolet Cobalt LS,Chevrolet,2008,"$5,499","36,146",Blue,Gray,Automatic,FWD
-2009 Bentley Continental Flying Spur,Bentley,2009,"$37,995","45,290",Red,Other,Automatic,AWD
-2013 Audi A7 3.0T Premium,Audi,2013,"$19,995","40,000",Gray,Gray,Automatic,FWD
-2003 Lincoln Navigator Ultimate,Lincoln,2003,"$1,900","147,519",White,Beige,Automatic,4x4/4-wheel drive
-2005 Land Rover LR3 SE,Land,2005,"$4,995","151,290",Black,Black,Automatic,4x4/4-wheel drive
-2004 Saab 9-3 Aero,Saab,2004,"$4,895","77,326",Gray,Gray,Manual,FWD
-2019 MINI Convertible Cooper,MINI,2019,"$13,888","46,152",Gray,Black,Automatic,FWD
 2005 Pontiac Grand Prix GT,Pontiac,2005,"$3,995","77,406",Silver,Black,Automatic,FWD
 2018 Land Rover Discovery SE,Land,2018,"$29,900","17,011",Black,Black,Automatic,4x4/4-wheel drive
 2018 Buick Encore Preferred II,Buick,2018,"$12,900",44,White,Gray,Automatic,FWD
 2016 Honda Pilot EX-L,Honda,2016,"$15,500","42,555",White,Beige,Automatic,AWD
+2019 Cadillac XT4 Luxury,Cadillac,2019,"$29,500",167,Orange,Other,Automatic,AWD
+2019 Nissan Murano SL,Nissan,2019,"$22,500",79,Gray,Gray,CVT,FWD
+2017 Dodge Grand Caravan SXT,Dodge,2017,"$11,500","48,745",Black,Black,Automatic,FWD
+2015 Scion FR-S,Scion,2015,"$13,999","9,189",Orange,Black,Manual,RWD
+2015 Subaru BRZ Series.Blue,Subaru,2015,"$19,996","35,692",White,Black,Manual,RWD
+2019 Mercedes-Benz GLC 350e Base 4MATIC,Mercedes-Benz,2019,"$38,600","9,336",White,Beige,Automatic,AWD
+2008 Dodge Sprinter HIGH ROOF 170-IN. WB EXT,Dodge,2008,"$13,995","143,875",Gray,Black,Automatic,RWD
+2018 Toyota Camry Hybrid LE,Toyota,2018,"$15,998","78,270",White,Other,CVT,FWD
 2013 Hyundai Sonata GLS,Hyundai,2013,"$8,696","53,261",Black,Beige,Automatic,FWD
+2015 Chevrolet Impala 1LT,Chevrolet,2015,"$9,995","70,860",White,Other,Automatic,FWD
+2014 Nissan Sentra SV,Nissan,2014,"$5,900","74,752",Silver,Black,CVT,FWD
+2019 INFINITI QX80 Limited,INFINITI,2019,"$42,998","14,491",Black,Other,Automatic,AWD
+2017 Mitsubishi Lancer ES,Mitsubishi,2017,"$11,685","21,895",Black,Black,CVT,FWD
+2017 Volvo XC90 Hybrid T8 Inscription,Volvo,2017,"$41,915","28,189",Black,Orange,Automatic,AWD
+2019 Genesis G70 3.3T Dynamic,Genesis,2019,"$37,900","11,925",White,Other,Automatic,AWD
+2020 Kia Telluride SX,Kia,2020,"$45,999","10,191",Green,Gray,Automatic,AWD
 2017 FIAT 124 Spider Elaborazione Abarth,FIAT,2017,"$18,506","24,730",Gray,Black,Manual,RWD
+2010 Mazda Mazda5 Grand Touring,Mazda,2010,"$5,495","114,154",Black,Black,Automatic,FWD
+2012 Ford Focus SEL,Ford,2012,"$3,995","104,100",Red,Black,Automatic,FWD
+2018 Honda Civic Type R Touring,Honda,2018,"$33,995","5,527",Gray,Black,Manual,FWD
+2017 Audi RS 7 4.0T Prestige,Audi,2017,"$51,288","59,425",Black,Black,Automatic,AWD
+2007 Cadillac STS V,Cadillac,2007,"$11,990","109,648",Black,Black,Automatic,RWD
+2008 Mazda MazdaSpeed3 Grand Touring,Mazda,2008,"$7,490","96,281",White,Black,Manual,FWD
+2011 Buick Regal CXL Turbo,Buick,2011,"$6,950","88,000",Black,Black,Manual,FWD
 2015 Volvo XC70 T6 Premier Plus,Volvo,2015,"$19,650","58,216",Blue,Beige,Automatic,AWD
 2006 Honda Ridgeline RTS,Honda,2006,"$6,995","88,848",Red,Other,Automatic,4x4/4-wheel drive
+2007 Chevrolet TrailBlazer LS,Chevrolet,2007,"$3,495","128,537",Gray,Other,Automatic,RWD
+2009 Mercury Grand Marquis LS,Mercury,2009,"$9,998","34,815",Silver,Gray,Automatic,RWD
+2001 Mercury Grand Marquis GS,Mercury,2001,"$3,998","54,932",Silver,Gray,Automatic,RWD
+2015 Honda CR-Z EX,Honda,2015,"$10,295","24,792",Black,Black,CVT,FWD
+2006 Mercury Milan V6 Premier,Mercury,2006,"$4,899","128,150",Black,Black,Automatic,FWD
+2016 Hyundai Equus Signature,Hyundai,2016,"$20,097","61,726",Gray,Black,Automatic,RWD
+2016 Cadillac CT6 3.0L Twin Turbo Platinum,Cadillac,2016,"$31,995","23,301",Gray,Black,Automatic,AWD
+2012 Kia Soul +,Kia,2012,"$5,295","98,223",Black,Gray,Automatic,FWD
+2019 Toyota 86 GT,Toyota,2019,"$22,795","4,406",White,Black,Automatic,RWD
+2015 INFINITI Q40 Base,INFINITI,2015,"$13,995","46,676",Gray,Gray,Automatic,AWD
+2018 Lincoln Navigator L Reserve,Lincoln,2018,"$59,888","35,409",White,Beige,Automatic,4x4/4-wheel drive
+2016 Mercedes-Benz Metris Base,Mercedes-Benz,2016,"$16,995","49,625",Gray,Gray,Automatic,RWD
+2018 Kia Optima LX,Kia,2018,"$9,999","30,788",White,Black,Automatic,FWD
+2008 Mitsubishi Lancer GTS,Mitsubishi,2008,"$3,499","161,052",Beige,Other,CVT,FWD
+2018 Honda Civic Type R Touring,Honda,2018,"$29,800","23,304",Blue,Black,Manual,FWD
+2014 Volkswagen Touareg 3.6L Sport w/Nav,Volkswagen,2014,"$13,995","42,587",Gray,Other,Automatic,AWD
+2007 Mercury Mariner,Mercury,2007,"$3,742","116,588",Silver,Gray,Automatic,4x4/4-wheel drive
+2017 BMW X3 sDrive28i,BMW,2017,"$22,080","19,742",Black,Black,Automatic,RWD
+2010 Chrysler Town & Country Touring,Chrysler,2010,"$4,350","105,696",Black,Gray,Automatic,FWD
+2013 BMW 640 Gran Coupe i,BMW,2013,"$27,789","28,447",Gray,Black,Automatic,RWD
+2006 INFINITI M35x Base,INFINITI,2006,"$2,999","136,152",Black,Other,Automatic,AWD
+2009 Buick Enclave CXL,Buick,2009,"$3,995","131,749",White,Other,Automatic,AWD
+2011 Nissan Sentra 2.0 S,Nissan,2011,"$5,695","73,093",Blue,Gray,CVT,FWD
+2012 Jeep Grand Cherokee Laredo,Jeep,2012,"$9,995","87,244",Black,Other,Automatic,4x4/4-wheel drive
+2009 Chrysler Town & Country Touring,Chrysler,2009,"$3,995","130,614",Silver,Gray,Automatic,FWD
+2015 Jeep Grand Cherokee Laredo,Jeep,2015,"$17,995","61,461",Gray,Black,Automatic,4x4/4-wheel drive
+2017 MINI Clubman Cooper S ALL4,MINI,2017,"$19,990","25,614",Black,Black,Automatic,AWD
+2013 Kia Optima LX,Kia,2013,"$5,499","118,789",Black,Other,Automatic,FWD
+2012 Honda Crosstour EX-L,Honda,2012,"$8,895","114,305",Blue,Black,Automatic,4x4/4-wheel drive
+2019 Hyundai Elantra SE,Hyundai,2019,"$13,277","18,099",Silver,Black,Automatic,FWD
+2019 Nissan Sentra SV,Nissan,2019,"$12,777","15,681",Silver,Gray,CVT,FWD
+2008 Mazda Mazda5 Sport,Mazda,2008,"$3,500","113,950",Blue,Black,Automatic,FWD
+2014 Mazda Mazda5 Touring,Mazda,2014,"$7,397","115,953",Black,Black,Automatic,FWD
+2013 Ford Transit Connect XLT,Ford,2013,"$9,999","67,214",White,Gray,Automatic,FWD
+2017 Acura MDX Sport Hybrid 3.5L w/Advance Package,Acura,2017,"$39,459","19,975",Gray,Gray,Automatic,AWD
+2013 Porsche Panamera 4,Porsche,2013,"$29,990","49,700",White,Blue,Automatic,RWD
+2018 Ford Fusion Hybrid Titanium,Ford,2018,"$14,990","26,848",Black,Black,CVT,FWD
+2007 Hummer H2 SUT,Hummer,2007,"$29,995","44,830",Blue,Black,Automatic,4x4/4-wheel drive
+2018 Mercedes-Benz AMG GLC 63 4MATIC Coupe,Mercedes-Benz,2018,"$59,950","11,001",Black,Red,Automatic,AWD
+2007 Ford Explorer Sport Trac XLT,Ford,2007,"$6,500","92,456",Gold,Beige,Automatic,4x4/4-wheel drive
+2012 Chrysler Town & Country Touring-L,Chrysler,2012,"$8,500","51,408",Black,Black,Automatic,FWD
+2010 Land Rover Range Rover HSE,Land,2010,"$10,995","97,000",Gray,Other,Automatic,4x4/4-wheel drive
+2019 Buick Enclave Essence,Buick,2019,"$27,111","3,904",White,Gray,Automatic,AWD
+2015 INFINITI Q70,INFINITI,2015,"$21,416","34,303",Black,Gray,Automatic,AWD
+2013 Subaru BRZ Premium,Subaru,2013,"$12,995","70,256",White,Black,Manual,RWD
+2017 BMW X5 eDrive xDrive40e,BMW,2017,"$29,890","29,935",White,Brown,Automatic,AWD
+2004 Honda Element EX,Honda,2004,"$3,977","147,936",Black,Black,Automatic,4x4/4-wheel drive
+2011 BMW 535 i xDrive,BMW,2011,"$7,587","104,517",Silver,Black,Automatic,AWD
+2016 INFINITI Q70L,INFINITI,2016,"$21,495","58,349",White,Gray,Automatic,AWD
+2018 Lexus LS 500,Lexus,2018,"$46,995","57,215",Gray,Black,Automatic,RWD
+2019 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,2019,"$23,900",19,Red,Black,Automatic,AWD
+2018 Hyundai Tucson SEL Plus,Hyundai,2018,"$14,900","4,686",Silver,Black,Automatic,AWD
+2013 Chevrolet Sonic LT,Chevrolet,2013,"$5,995","71,804",Blue,Black,Automatic,FWD
+2019 Volkswagen Golf GTI 2.0T S,Volkswagen,2019,"$16,900",20,White,Black,Manual,FWD
+2018 Chevrolet Malibu LT,Chevrolet,2018,"$11,000","2,845",Gray,Black,Automatic,FWD
+2008 Dodge Nitro SXT,Dodge,2008,"$3,595","160,063",Black,Black,Automatic,4x4/4-wheel drive
+2013 Nissan Sentra SR,Nissan,2013,"$5,995","76,230",Gray,Black,CVT,FWD
+2014 Lincoln MKZ Base,Lincoln,2014,"$9,900","34,696",Other,Other,Automatic,AWD
+2019 Chevrolet Equinox 1LT,Chevrolet,2019,"$8,900","52,788",Other,Other,Automatic,AWD
+2019 INFINITI QX80 Luxe,INFINITI,2019,"$36,500",13,Gray,Gray,Automatic,RWD
+2020 Nissan Altima 2.5 S,Nissan,2020,"$16,500","2,251",White,Other,CVT,FWD
+2019 Dodge Grand Caravan SE,Dodge,2019,"$17,500",64,Blue,Gray,Automatic,FWD
+2008 Jeep Liberty Sport,Jeep,2008,"$4,500","87,462",Red,Beige,Manual,4x4/4-wheel drive
+2015 Kia Soul Base,Kia,2015,"$6,900","36,865",Silver,Black,Manual,FWD
+2005 Chevrolet Uplander Base,Chevrolet,2005,"$5,499","79,660",Silver,Beige,Automatic,FWD
+2009 Ford Expedition EL XLT,Ford,2009,"$3,995","158,165",Gray,Black,Automatic,4x4/4-wheel drive
+2020 Nissan NV Passenger NV3500 HD SV V6/SV V8,Nissan,2020,"$27,900",33,White,Gray,Automatic,RWD
+2016 Chevrolet Cruze Limited 2LT,Chevrolet,2016,"$7,995","63,804",Red,Black,Automatic,FWD
+2015 Ford Taurus SHO,Ford,2015,"$14,495","42,273",Silver,Gray,Automatic,AWD
+2007 Lincoln Navigator,Lincoln,2007,"$4,999","153,733",White,Black,Automatic,4x4/4-wheel drive
+2009 Jaguar XKR,Jaguar,2009,"$22,990","75,607",Gray,Beige,Automatic,RWD
+2018 Volvo S90 T5 Momentum,Volvo,2018,"$26,995","22,610",Black,Other,Automatic,AWD
+2018 Mercedes-Benz AMG GLC 43 Base 4MATIC,Mercedes-Benz,2018,"$39,800","14,841",Black,Black,Automatic,AWD
+2016 Audi TTS 2.0T quattro,Audi,2016,"$31,800","38,241",Black,Red,Automatic,AWD
+2016 Nissan Maxima 3.5 SL,Nissan,2016,"$13,499","44,342",Brown,Gray,CVT,FWD
+2013 Subaru BRZ Limited,Subaru,2013,"$10,999","85,764",Black,Black,Automatic,RWD
+2018 Kia Forte LX,Kia,2018,"$8,799","34,126",Silver,Black,Automatic,FWD
+2011 Mercedes-Benz R 350 4MATIC,Mercedes-Benz,2011,"$17,450","76,556",Blue,Beige,Automatic,AWD
+2019 Chrysler 300 S,Chrysler,2019,"$18,900","35,133",Blue,Other,Automatic,RWD
+2016 BMW X5 eDrive xDrive40e,BMW,2016,"$24,500","39,983",White,Brown,Automatic,AWD
+2018 Honda Civic LX,Honda,2018,"$9,900","64,359",Silver,Black,CVT,FWD
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,2018,"$37,885","17,994",White,Beige,Automatic,AWD
+2019 INFINITI QX80 Luxe,INFINITI,2019,"$40,000","12,494",Black,Other,Automatic,AWD
+2008 Pontiac G6 GT,Pontiac,2008,"$8,788","49,829",Red,Brown,Automatic,FWD
+2016 Mercedes-Benz C 300 Sport,Mercedes-Benz,2016,"$14,985","59,191",Black,Black,Automatic,AWD
+2012 Jeep Wrangler Sport,Jeep,2012,"$13,849","86,000",Black,Black,Automatic,4x4/4-wheel drive
+2019 Lexus UX 250h,Lexus,2019,"$28,988","5,292",Silver,Other,CVT,AWD
+2015 Volvo S80 T5,Volvo,2015,"$10,999","70,876",Black,Black,Automatic,FWD
+2011 BMW 1 Series M Base,BMW,2011,"$55,900","30,456",Orange,Black,Manual,RWD
+2017 Nissan Maxima 3.5 Platinum,Nissan,2017,"$16,695","59,836",Gray,Black,CVT,FWD
+2016 Mercedes-Benz CLA 250,Mercedes-Benz,2016,"$16,295","48,750",Gray,Black,Automatic,FWD
+2014 Cadillac SRX Luxury Collection,Cadillac,2014,"$8,900","124,860",White,Black,Automatic,FWD
+2018 Kia Stinger GT,Kia,2018,"$28,800","17,738",Blue,Black,Automatic,RWD
+2003 Hummer H2,Hummer,2003,"$13,995","78,638",Orange,Beige,Automatic,4x4/4-wheel drive
+2019 Lexus RC F Base,Lexus,2019,"$58,450","14,870",Black,Black,Automatic,RWD
+2018 Toyota Prius Prime Premium,Toyota,2018,"$18,900","11,200",Silver,White,CVT,FWD
+2010 Mercury Mariner Base,Mercury,2010,"$6,995","133,897",Gold,Gray,Automatic,4x4/4-wheel drive
+2010 Nissan Sentra 2.0 SR,Nissan,2010,"$5,995","59,264",Blue,Gray,CVT,FWD
+2004 Acura TL 3.2,Acura,2004,"$3,995","95,595",Blue,Beige,Automatic,FWD
+2017 Nissan Sentra SR,Nissan,2017,"$9,995","26,349",White,Gray,CVT,FWD
+2018 Chevrolet Equinox 1LT,Chevrolet,2018,"$13,995","30,820",Red,Gray,Automatic,AWD
+2008 Volkswagen R32,Volkswagen,2008,"$12,499","97,671",White,Gray,Automatic,AWD
+2010 Volvo S80 V8,Volvo,2010,"$7,199","108,840",Black,Black,Automatic,AWD
+2001 Toyota Celica GTS,Toyota,2001,"$9,998","58,028",Black,Gray,Automatic,FWD
+2017 Dodge Durango GT,Dodge,2017,"$23,988","41,665",Other,Black,Automatic,AWD
+2007 Jaguar XK,Jaguar,2007,"$15,977","56,212",Black,Black,Automatic,RWD
+2018 Dodge Grand Caravan GT,Dodge,2018,"$13,769","45,669",Black,Other,Automatic,FWD
+2017 Acura ILX w/AcuraWatch Plus,Acura,2017,"$13,885","23,798",Black,Black,Automatic,FWD
+2019 Acura RDX A-Spec,Acura,2019,"$36,995","17,144",Blue,Red,Automatic,AWD
+2018 Dodge Journey SE,Dodge,2018,"$15,495","6,325",Black,Black,Automatic,FWD
+2008 Volkswagen R32,Volkswagen,2008,"$10,877","105,774",Gray,Gray,Automatic,AWD
+2016 Buick Encore Base,Buick,2016,"$9,955","96,198",Gray,Black,Automatic,FWD
+2017 Ford Fusion Titanium,Ford,2017,"$12,499","27,640",Silver,Black,Automatic,FWD
+2016 BMW 428 Gran Coupe i xDrive,BMW,2016,"$16,851","50,714",Black,Black,Automatic,AWD
+2007 Chevrolet Impala LT,Chevrolet,2007,"$4,500","73,762",Red,Beige,Automatic,FWD
+2008 Toyota FJ Cruiser,Toyota,2008,"$11,995","120,536",Black,Gray,Automatic,4x4/4-wheel drive
+2019 Nissan Altima 2.5 S,Nissan,2019,"$13,995","37,596",Black,Black,CVT,FWD
+2017 Kia Soul EV EV,Kia,2017,"$14,580","14,946",Black,Gray,Automatic,FWD
+2016 Hyundai Sonata Sport,Hyundai,2016,"$10,998","27,659",Gray,Gray,Automatic,FWD
+2014 Ford Escape SE,Ford,2014,"$6,499","90,673",Black,Gray,Automatic,4x4/4-wheel drive
+2013 Cadillac XTS W20 Livery Package,Cadillac,2013,"$7,999","107,640",Blue,Black,Automatic,FWD
+2011 Saab 9-3,Saab,2011,"$3,499","95,498",Silver,Black,Automatic,FWD
+2014 Scion iQ 10th Anniversary Edition,Scion,2014,"$8,190","50,163",Silver,Black,Automanual,FWD
+2004 GMC Envoy SLT,GMC,2004,"$7,990","51,831",Gray,Gray,Automatic,4x4/4-wheel drive
+2009 Lincoln MKS Base,Lincoln,2009,"$7,995","62,795",Red,Black,Automatic,FWD
+2008 Mitsubishi Lancer GTS,Mitsubishi,2008,"$2,790","200,269",Silver,Black,CVT,FWD
+2014 Lincoln MKZ Hybrid Base,Lincoln,2014,"$10,995","77,080",White,Black,CVT,FWD
+2009 INFINITI FX35,INFINITI,2009,"$9,995","54,058",Brown,Other,Automatic,AWD
+2016 Nissan Sentra SR,Nissan,2016,"$5,999","109,865",White,Gray,CVT,FWD
+2011 Jaguar XJ Base,Jaguar,2011,"$14,995","69,684",Black,White,Automatic,RWD
+2006 Mercury Mariner Premier,Mercury,2006,"$2,495","167,459",White,Other,Automatic,4x4/4-wheel drive
+2015 Acura ILX 2.0L,Acura,2015,"$12,988","37,418",White,Black,Automatic,FWD
+2016 Lexus NX 200t F Sport,Lexus,2016,"$23,777","28,997",Red,Other,Automatic,AWD
+2015 RAM ProMaster City Base,RAM,2015,"$11,900","55,865",White,Black,Automatic,FWD
+2014 Nissan NV Cargo NV2500 HD S V6/S V8,Nissan,2014,"$12,999","124,446",White,Gray,Automatic,RWD
+2018 Lincoln Navigator L Select,Lincoln,2018,"$54,995","39,237",Black,Other,Automatic,4x4/4-wheel drive
+2007 Volvo XC70 2.5T,Volvo,2007,"$6,999","87,354",Gray,Gray,Automatic,AWD
+2010 Acura TSX 2.4,Acura,2010,"$10,995","73,214",Black,Black,Automatic,FWD
+2000 Chevrolet Express 1500 LS Wagon,Chevrolet,2000,"$7,495","117,354",Beige,Beige,Automatic,RWD
+2011 Toyota Matrix S,Toyota,2011,"$10,995","92,643",White,Gray,Automatic,AWD
+2007 Chevrolet Express 3500 LS,Chevrolet,2007,"$9,200","112,745",Gray,Gray,Automatic,RWD
+2011 Ford Fiesta SES,Ford,2011,"$3,995","132,142",Blue,Black,Automatic,FWD
+2019 Toyota Camry SE,Toyota,2019,"$16,990","25,546",White,Black,Automatic,FWD
+2010 Toyota Venza,Toyota,2010,"$7,999","123,888",Black,Black,Automatic,AWD
+2007 Hyundai Azera Limited,Hyundai,2007,"$5,495","77,281",Silver,Gray,Automatic,FWD
+2016 Nissan Altima 2.5 SR,Nissan,2016,"$7,999","123,551",White,Gray,CVT,FWD
+2008 Mercury Mountaineer Premier,Mercury,2008,"$4,905","107,148",White,Black,Automatic,AWD
+2017 Hyundai Accent SE,Hyundai,2017,"$7,900","40,021",Gray,Gray,Automatic,FWD
+2014 RAM ProMaster 2500 Tradesman,RAM,2014,"$17,000","30,549",White,Gray,Automatic,FWD
+2012 Dodge Grand Caravan SXT,Dodge,2012,"$4,995","131,046",Black,Black,Automatic,FWD
+2017 Dodge Grand Caravan SE,Dodge,2017,"$12,000","40,737",Red,Black,Automatic,FWD
+2016 Mercedes-Benz AMG C AMG C 63 S,Mercedes-Benz,2016,"$39,950","50,941",White,Black,Automatic,RWD
+2016 Audi S3 2.0T Premium Plus,Audi,2016,"$26,279","20,266",Black,Black,Automatic,AWD
+2017 Maserati Levante Base,Maserati,2017,"$38,890","41,814",Black,Black,Automatic,AWD
+2017 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,2017,"$28,990","47,532",White,Red,Automatic,AWD
+2017 BMW 540 i xDrive,BMW,2017,"$31,450","45,917",Other,Brown,Automatic,AWD
+2020 Dodge Durango R/T,Dodge,2020,"$34,500",301,Other,Other,Automatic,RWD
+2013 BMW 650 Gran Coupe i,BMW,2013,"$19,998","84,186",Red,Black,Automatic,RWD
+2006 Pontiac G6 GT,Pontiac,2006,"$2,795","132,981",Black,Black,Automatic,FWD
+2012 Land Rover LR4 Base,Land,2012,"$14,985","92,961",Black,Black,Automatic,4x4/4-wheel drive
+2018 BMW 440 Gran Coupe i xDrive,BMW,2018,"$26,795","37,879",Blue,White,Automatic,AWD
+2019 INFINITI QX60 Pure,INFINITI,2019,"$27,500",255,Silver,Gray,CVT,AWD
+2017 Chevrolet Malibu 1LT,Chevrolet,2017,"$8,900","33,699",Other,Other,Automatic,FWD
+2015 Ford F-150 Platinum,Ford,2015,"$14,900","78,244",Other,Other,Automatic,4x4/4-wheel drive
+2002 Lexus SC 430,Lexus,2002,"$10,990","92,679",White,Beige,Automatic,RWD
+2018 Cadillac XT5 Premium Luxury,Cadillac,2018,"$21,595","50,852",Black,Beige,Automatic,FWD
+2011 Ford E250 Cargo,Ford,2011,"$7,900","118,615",White,Gray,Automatic,RWD
+2017 Audi A8 L 3.0T,Audi,2017,"$33,800","37,698",White,Black,Automatic,AWD
+2017 Audi S7 4.0T Premium Plus,Audi,2017,"$42,800","37,353",White,Red,Automatic,AWD
+2014 Kia Cadenza Premium,Kia,2014,"$11,494","42,079",Gray,Black,Automatic,FWD
+2018 Mercedes-Benz Metris Base,Mercedes-Benz,2018,"$25,500","25,369",Black,Black,Automatic,RWD
+2012 Toyota Corolla LE,Toyota,2012,"$5,995","87,002",Gray,Gray,Automatic,FWD
+2010 Mercedes-Benz ML 350 4MATIC,Mercedes-Benz,2010,"$7,595","116,833",Black,Black,Automatic,AWD
+2018 Chevrolet Traverse LS,Chevrolet,2018,"$23,995","12,646",Black,Black,Automatic,FWD
+2016 Nissan Altima 2.5 SR,Nissan,2016,"$12,495","37,148",Black,Gray,CVT,FWD
+2019 Toyota Camry SE,Toyota,2019,"$15,900","24,838",Gray,Black,Automatic,FWD
+2019 Hyundai Elantra SEL,Hyundai,2019,"$11,888","39,122",Black,Gray,Automatic,FWD
+2013 INFINITI JX35 Base,INFINITI,2013,"$15,763","64,423",Black,Brown,CVT,AWD
+2016 INFINITI Q70L 3.7X,INFINITI,2016,"$24,250","36,462",White,Brown,Automatic,AWD
+2017 Jeep Patriot Sport,Jeep,2017,"$12,246","57,459",Silver,Gray,Automatic,FWD
+2019 Genesis G80 3.8L,Genesis,2019,"$37,900","9,257",Gray,Other,Automatic,AWD
+2018 Volvo S90 T6 Inscription,Volvo,2018,"$32,999","24,053",Black,Other,Automatic,AWD
+2017 Ford Shelby GT350 Base,Ford,2017,"$48,888",970,White,Black,Manual,RWD
+2019 Chrysler Pacifica Touring-L,Chrysler,2019,"$20,995","40,710",Black,Black,Automatic,FWD
+2017 BMW 440 Gran Coupe i xDrive,BMW,2017,"$24,979","18,301",White,Red,Automatic,AWD
+2017 Nissan Armada SV,Nissan,2017,"$23,994","55,962",Gray,Gray,Automatic,AWD
+2016 Lincoln MKX Select,Lincoln,2016,"$16,450","41,614",Black,Beige,Automatic,AWD
+2014 RAM ProMaster 2500 Tradesman,RAM,2014,"$17,995","46,669",White,Gray,Automatic,FWD
+2007 Nissan Altima 2.5 S,Nissan,2007,"$4,987","78,359",Gray,Other,CVT,FWD
+2018 Hyundai Kona SE,Hyundai,2018,"$16,995","23,555",White,Black,Automatic,AWD
+2013 Dodge Avenger SXT,Dodge,2013,"$6,990","106,763",Black,Black,Automatic,FWD
+2019 Ford Transit-350 XLT,Ford,2019,"$29,450","6,352",White,Black,Automatic,RWD
+2017 Acura RLX Technology Package,Acura,2017,"$22,980","23,998",White,Black,Automatic,FWD
+2016 Audi TT 2.0T,Audi,2016,"$24,780","29,848",White,Brown,Automatic,AWD
+2010 Mercedes-Benz GLK 350 4MATIC,Mercedes-Benz,2010,"$12,995","37,766",White,Beige,Automatic,AWD
+2017 Volkswagen Tiguan 2.0T Sport,Volkswagen,2017,"$14,999","15,701",White,Black,Automatic,AWD
+2016 Acura ILX 2.4L,Acura,2016,"$12,430","83,973",White,Black,Automatic,FWD
+2017 Chrysler Pacifica Touring-L,Chrysler,2017,"$15,700","57,095",Black,Black,Automatic,FWD
+2011 Nissan Juke SV,Nissan,2011,"$5,495","130,040",Red,Black,CVT,AWD
+2009 Hyundai Accent GLS,Hyundai,2009,"$2,495","134,420",Blue,Gray,Automatic,FWD
+2015 Buick Enclave Leather,Buick,2015,"$14,900","68,204",White,Brown,Automatic,FWD
+2010 Nissan Sentra 2.0 SL,Nissan,2010,"$5,998","72,613",Gray,Gray,CVT,FWD
+2011 Mercury Grand Marquis LS,Mercury,2011,"$12,998","32,575",Red,Beige,Automatic,RWD
+2015 Nissan Sentra SV,Nissan,2015,"$7,599","86,246",Gray,Black,CVT,FWD
+2017 Genesis G90 5.0 Ultimate,Genesis,2017,"$33,977","49,226",Silver,Black,Automatic,AWD
+2019 Nissan Armada Platinum,Nissan,2019,"$46,695","6,589",Gray,Gray,Automatic,AWD
+2005 Toyota Matrix XR AWD,Toyota,2005,"$3,995","123,967",Blue,Gray,Automatic,AWD
+2018 Lincoln Continental Reserve,Lincoln,2018,"$37,495",990,Red,Red,Automatic,AWD
+2015 RAM ProMaster 2500 High Roof,RAM,2015,"$18,990","91,675",Black,Black,Automatic,FWD
+2017 Acura ILX Premium Package,Acura,2017,"$13,999","36,607",Blue,Beige,Automatic,FWD
+2016 BMW 528 i xDrive,BMW,2016,"$14,853","53,203",Other,Brown,Automatic,AWD
+2019 Toyota Camry LE,Toyota,2019,"$14,728","28,678",White,Gray,Automatic,FWD
+2017 Chevrolet Traverse LS,Chevrolet,2017,"$12,999","55,118",Silver,Beige,Automatic,AWD
+2016 Jeep Cherokee Limited,Jeep,2016,"$12,840","40,800",Blue,Black,Automatic,4x4/4-wheel drive
+2013 Volkswagen Passat 2.0 TDI SEL Premium,Volkswagen,2013,"$9,853","57,656",Black,Black,Automatic,FWD
+2016 Dodge Grand Caravan SXT,Dodge,2016,"$8,499","89,483",Black,Black,Automatic,FWD
+2006 Acura RL,Acura,2006,"$3,995","121,228",Silver,Beige,Automatic,AWD
+2019 MINI Clubman Cooper S,MINI,2019,"$27,590","8,083",Black,Black,Manual,FWD
+2015 Audi A4 2.0T Premium,Audi,2015,"$13,995","49,000",Red,Black,Automatic,AWD
+2016 Cadillac ELR,Cadillac,2016,"$29,942","29,719",Gray,Brown,Automatic,FWD
+2003 Volkswagen Eurovan MV,Volkswagen,2003,"$8,942","147,143",Red,Gray,Automatic,FWD
+2006 Jeep Commander Base,Jeep,2006,"$8,995","74,625",Brown,Gray,Automatic,4x4/4-wheel drive
+2010 Honda Element EX,Honda,2010,"$4,750","179,326",Red,Black,Automatic,4x4/4-wheel drive
+2016 BMW i8 Base,BMW,2016,"$59,970","34,512",Silver,Other,Automatic,AWD
+2019 Dodge Journey Crossroad,Dodge,2019,"$20,490","20,099",Red,Black,Automatic,AWD
+2006 Toyota Sequoia Limited,Toyota,2006,"$5,750","155,529",Blue,Beige,Automatic,4x4/4-wheel drive
+2006 BMW 550 i,BMW,2006,"$9,999","75,789",Gray,Black,Automatic,RWD
+2008 BMW 650 i,BMW,2008,"$7,500","53,000",Silver,Black,Automatic,RWD
+2011 Toyota Sienna LE,Toyota,2011,"$9,499","107,632",Gray,Beige,Automatic,AWD
+2016 BMW X6 M Base,BMW,2016,"$39,789","93,607",Gray,Red,Automatic,AWD
+2002 Chevrolet Astro,Chevrolet,2002,"$3,995","179,436",White,Gray,Automatic,RWD
+2014 Nissan Sentra SV,Nissan,2014,"$3,999","99,367",White,Gray,CVT,FWD
+2013 Hyundai Elantra GLS,Hyundai,2013,"$3,999","140,563",White,Beige,Automatic,FWD
+2015 Kia Cadenza Premium,Kia,2015,"$15,477","44,184",White,Beige,Automatic,FWD
+2015 INFINITI Q70L 3.7X,INFINITI,2015,"$18,477","82,819",Gray,Gray,Automatic,AWD
+2008 Land Rover LR3 SE,Land,2008,"$6,500","178,414",Green,Beige,Automatic,4x4/4-wheel drive
+2014 INFINITI Q60 Base,INFINITI,2014,"$14,995","33,682",Silver,Gray,Automatic,RWD
+2018 Hyundai Elantra GT Base,Hyundai,2018,"$13,999","19,347",Red,Black,Automatic,FWD
+2014 Mercedes-Benz CLA 250 4MATIC,Mercedes-Benz,2014,"$13,995","58,564",White,Black,Automatic,AWD
+2014 Volkswagen CC VR6 Executive 4Motion,Volkswagen,2014,"$17,998","36,419",Brown,Beige,Automatic,AWD
+2017 Chrysler Pacifica Touring,Chrysler,2017,"$14,900","65,052",White,Beige,Automatic,FWD
+2006 Dodge Dakota SLT,Dodge,2006,"$3,495","139,700",Silver,Gray,Automatic,4x4/4-wheel drive
+2017 Hyundai Santa Fe Sport 2.0L Turbo Ultimate,Hyundai,2017,"$23,890","32,273",White,Black,Automatic,AWD
+2015 Hyundai Elantra SE,Hyundai,2015,"$4,795","117,720",Silver,Gray,Automatic,FWD
+2019 Nissan Kicks SV,Nissan,2019,"$15,800",946,Silver,Black,CVT,FWD
+2017 Chrysler Pacifica Touring-L,Chrysler,2017,"$17,995","44,322",Red,Black,Automatic,FWD
+2019 Chevrolet Malibu LT,Chevrolet,2019,"$12,490","35,582",Black,Black,Automatic,FWD
+2018 Mazda CX-9 Touring,Mazda,2018,"$21,000","46,410",Black,Black,Automatic,FWD
+2013 Buick Regal Base,Buick,2013,"$9,700","48,744",White,Beige,Automatic,FWD
+2016 Buick Enclave Leather,Buick,2016,"$17,490","65,614",Black,Black,Automatic,AWD
+2018 Honda Clarity Plug-In Hybrid Touring,Honda,2018,"$18,888","32,322",Green,Beige,CVT,FWD
+2010 Chrysler 300 Touring/Signature Series,Chrysler,2010,"$6,201","76,395",Red,Gray,Automatic,AWD
+2018 Hyundai Santa Fe Sport 2.4L,Hyundai,2018,"$13,888","38,558",Silver,Gray,Automatic,FWD
+2015 BMW X4 xDrive35i,BMW,2015,"$19,990","28,584",Black,Black,Automatic,AWD
+2019 Nissan Altima 2.5 S,Nissan,2019,"$12,900","38,320",White,Other,CVT,FWD
+2016 Porsche Macan S,Porsche,2016,"$28,900","20,198",Black,Gray,Automatic,AWD
+2016 BMW 435 i xDrive,BMW,2016,"$19,900","54,924",White,Black,Automatic,AWD
+2016 Land Rover LR4 Base,Land,2016,"$28,900","25,869",Black,Black,Automatic,4x4/4-wheel drive
+2017 Ford Focus ST Base,Ford,2017,"$14,985","54,190",Black,Black,Manual,FWD
+2019 Land Rover Range Rover Sport 5.0L Supercharged Dynamic,Land,2019,"$54,900","19,432",Gray,Black,Automatic,4x4/4-wheel drive
+2018 GMC Acadia SLE-2,GMC,2018,"$17,500","16,154",Silver,Black,Automatic,AWD
+2009 Chevrolet Aveo LT,Chevrolet,2009,"$4,499","56,794",White,Beige,Automatic,FWD
+2018 Buick Encore Preferred II,Buick,2018,"$12,900",59,Black,Black,Automatic,FWD
+2018 Nissan Titan SV,Nissan,2018,"$22,985","36,207",Blue,Gray,Automatic,4x4/4-wheel drive
+2007 INFINITI G35 Journey,INFINITI,2007,"$4,900","83,701",Gray,Other,Automatic,RWD
+2008 GMC Envoy SLE,GMC,2008,"$3,295","142,175",Red,Gray,Automatic,4x4/4-wheel drive
+2008 Chrysler PT Cruiser LX,Chrysler,2008,"$2,795","84,109",Blue,Gray,Automatic,FWD
+2015 INFINITI Q70 3.7X,INFINITI,2015,"$21,800","39,803",White,Gray,Automatic,AWD
+2016 Toyota Camry Hybrid LE,Toyota,2016,"$11,495","13,546",Black,Black,CVT,FWD
+2018 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,2018,"$59,800","29,893",White,Brown,Automatic,AWD
+2016 INFINITI Q70 3.7X,INFINITI,2016,"$24,800","32,946",Black,Gray,Automatic,AWD
+2019 Mercedes-Benz AMG E 53 Base 4MATIC,Mercedes-Benz,2019,"$58,800","5,174",White,Black,Automatic,AWD
+2014 Kia Cadenza Premium,Kia,2014,"$10,698","74,642",Black,Gray,Automatic,FWD
+2018 Cadillac XT5 Premium Luxury,Cadillac,2018,"$26,998","24,306",Silver,Black,Automatic,AWD
+2018 Nissan Pathfinder SV,Nissan,2018,"$18,401","38,538",Green,Gray,CVT,4x4/4-wheel drive
+2017 BMW X5 M Base,BMW,2017,"$48,800","55,499",Blue,Other,Automatic,AWD
+2016 Mercedes-Benz Metris Base,Mercedes-Benz,2016,"$17,295","36,201",Black,Black,Automatic,RWD
+2010 Mercedes-Benz CL 550 4MATIC,Mercedes-Benz,2010,"$14,500","93,013",Black,Other,Automatic,AWD
+2013 Cadillac CTS Premium,Cadillac,2013,"$14,839","52,585",White,Beige,Automatic,AWD
+2019 Ford Fusion Hybrid Titanium,Ford,2019,"$18,995","44,713",Blue,Black,CVT,FWD
+2019 Toyota 86 TRD SE,Toyota,2019,"$23,730","8,107",Black,Red,Manual,RWD
+2007 Nissan Murano SL,Nissan,2007,"$2,800","144,375",White,Other,CVT,AWD
+2017 Buick Cascada Premium,Buick,2017,"$20,993","21,697",Blue,Beige,Automatic,FWD
+2007 Maserati Quattroporte Executive GT,Maserati,2007,"$16,800","55,277",Gray,Brown,Automatic,RWD
+2019 INFINITI QX80 Luxe,INFINITI,2019,"$55,993","10,087",Black,Gray,Automatic,AWD
+2018 Chrysler Pacifica Touring-L,Chrysler,2018,"$24,980","12,345",Red,Black,Automatic,FWD
+2010 Lincoln MKS EcoBoost,Lincoln,2010,"$6,995","121,128",White,Beige,Automatic,AWD
+2006 Jeep Wrangler Unlimited,Jeep,2006,"$13,995","75,995",Silver,Black,Manual,4x4/4-wheel drive
+2007 Toyota FJ Cruiser,Toyota,2007,"$9,900","103,142",White,Gray,Automatic,4x4/4-wheel drive
+2015 Buick Verano Base,Buick,2015,"$8,900","67,669",Black,Gray,Automatic,FWD
+2007 Hummer H3 Adventure,Hummer,2007,"$6,985","141,000",Gray,Gray,Automatic,4x4/4-wheel drive
+2014 Mercedes-Benz CLA 250 4MATIC,Mercedes-Benz,2014,"$16,590","56,073",Black,Black,Automatic,AWD
+2015 Cadillac SRX Luxury Collection,Cadillac,2015,"$18,177","49,754",Red,Other,Automatic,AWD
+2015 Kia Cadenza Premium,Kia,2015,"$13,000","42,051",Black,Black,Automatic,FWD
+2016 BMW 528 i xDrive,BMW,2016,"$17,450","31,845",Black,Black,Automatic,AWD
+2006 Hyundai Tiburon GT V6,Hyundai,2006,"$5,990","88,532",Black,Black,Automatic,FWD
+2017 Nissan Rogue S,Nissan,2017,"$12,793","26,843",White,Gray,CVT,AWD
+2019 Nissan Sentra S,Nissan,2019,"$9,990","13,444",White,Black,CVT,FWD
+2014 Dodge Dart GT,Dodge,2014,"$8,900","65,724",Blue,Black,Other / Unknown,FWD
+2012 Ford Fusion SE,Ford,2012,"$3,495","137,310",Red,Gray,Automatic,FWD
+2019 Toyota C-HR LE,Toyota,2019,"$16,988","15,635",Gray,Black,CVT,FWD
+2007 Cadillac DTS Luxury I,Cadillac,2007,"$9,995","64,882",Gold,Beige,Automatic,FWD
+2012 Honda Crosstour EX-L,Honda,2012,"$9,200","105,559",Gray,Black,Automatic,4x4/4-wheel drive
+2005 Pontiac GTO,Pontiac,2005,"$22,995","17,298",Black,Black,Automatic,RWD
+2017 Nissan Titan XD SV,Nissan,2017,"$31,899","13,891",White,Brown,Automatic,4x4/4-wheel drive
+2017 Nissan Sentra SR Turbo,Nissan,2017,"$14,999","26,151",Black,Black,Manual,FWD
+2017 Nissan Sentra SV,Nissan,2017,"$8,990","25,983",Gray,Black,CVT,FWD
+2018 Toyota C-HR XLE,Toyota,2018,"$15,888","36,624",Black,Black,CVT,FWD
+2002 Ford Thunderbird,Ford,2002,"$9,800","96,129",White,Red,Automatic,RWD
+2020 Hyundai Santa Fe SE 2.4,Hyundai,2020,"$25,875",52,Orange,Black,Automatic,AWD
+2013 Ford Escape SE,Ford,2013,"$6,995","56,444",Red,Gray,Automatic,4x4/4-wheel drive
+2017 Nissan Rogue SV,Nissan,2017,"$13,380","36,057",White,Gray,CVT,AWD
+2017 Toyota RAV4 LE,Toyota,2017,"$12,749","45,434",Gray,Black,Automatic,AWD
+2016 Honda Civic LX,Honda,2016,"$10,699","37,876",Black,Black,CVT,FWD
+2013 Acura TSX Technology,Acura,2013,"$9,995","93,566",Black,Black,Automatic,FWD
+2015 BMW X5 M Base,BMW,2015,"$43,999","52,456",Black,Red,Automatic,AWD
+2006 INFINITI FX45,INFINITI,2006,"$7,995","148,790",Other,Black,Automatic,AWD
+2013 Nissan Murano S,Nissan,2013,"$10,995","32,829",Gray,Black,CVT,AWD
+2016 Mercedes-Benz CLA 250 4MATIC,Mercedes-Benz,2016,"$16,995","35,968",Black,Orange,Automatic,AWD
+2019 Nissan Kicks SV,Nissan,2019,"$17,900","5,863",White,Gray,CVT,FWD
+2005 Nissan Murano SL,Nissan,2005,"$2,999","110,000",Silver,Other,CVT,AWD
+2017 smart ForTwo,smart,2017,"$17,439","11,479",Silver,Other,Automatic,RWD
+2010 BMW 328 i xDrive,BMW,2010,"$7,995","83,169",Blue,Brown,Automatic,AWD
+2015 Cadillac CTS 2.0L Turbo Luxury,Cadillac,2015,"$14,995","61,986",Black,Black,Automatic,AWD
+2007 Chevrolet TrailBlazer LS,Chevrolet,2007,"$2,995","94,797",Gray,Black,Automatic,4x4/4-wheel drive
+2014 Ford Explorer Sport,Ford,2014,"$14,995","77,177",White,Black,Automatic,4x4/4-wheel drive
+2011 Saab 9-5 Turbo4 Premium,Saab,2011,"$8,350","92,013",Gray,Gray,Automatic,FWD
+2018 Chevrolet Malibu LT,Chevrolet,2018,"$12,999","29,829",Blue,Black,Automatic,FWD
+2005 Hummer H2,Hummer,2005,"$19,000","68,000",Black,Gray,Automatic,4x4/4-wheel drive
+2017 BMW 430 i xDrive,BMW,2017,"$18,500","55,045",Black,Black,Automatic,AWD
+2017 Chrysler 300 S,Chrysler,2017,"$16,999","48,989",Black,Black,Automatic,RWD
+2005 Toyota Avalon XLS,Toyota,2005,"$5,995","113,612",Gray,Black,Automatic,FWD
+2019 Ford Fusion SE,Ford,2019,"$15,999","12,799",Gray,Black,Automatic,AWD
+2013 INFINITI FX37 Base,INFINITI,2013,"$12,995","108,131",Black,Brown,Automatic,AWD
+2007 Mercedes-Benz 63 AMG Cabriolet,Mercedes-Benz,2007,"$26,900","36,200",Silver,Black,Automatic,RWD
+2013 Volkswagen CC 2.0T Sport,Volkswagen,2013,"$7,700","59,361",Black,Black,Automatic,FWD
+2010 INFINITI FX35 Base,INFINITI,2010,"$12,999","66,000",Gray,Gray,Automatic,AWD
+2019 Chevrolet Spark,Chevrolet,2019,"$10,920","8,336",Beige,Other,Automatic,FWD
+2015 Hyundai Sonata Limited 2.0T,Hyundai,2015,"$12,490","50,768",Black,Black,Automatic,FWD
+2016 Jeep Compass High Altitude,Jeep,2016,"$12,500","20,799",Red,Gray,Automatic,4x4/4-wheel drive
+2012 Toyota Yaris L 4.2 quattro,Toyota,2012,"$7,500","21,462",Gray,Gray,Automatic,FWD
+2018 Dodge Grand Caravan GT,Dodge,2018,"$13,995","48,619",Silver,Black,Automatic,FWD
+2017 Mercedes-Benz AMG GLS 63 Base 4MATIC,Mercedes-Benz,2017,"$59,995","31,908",Black,Black,Automatic,AWD
+2008 INFINITI FX35,INFINITI,2008,"$4,900","144,235",Purple,Black,Automatic,AWD
+2019 Mitsubishi Outlander SE,Mitsubishi,2019,"$16,795","13,250",Black,Other,Automatic,4x4/4-wheel drive
+2017 BMW X4 xDrive 28i,BMW,2017,"$22,400","20,957",White,Black,Automatic,AWD
+2019 MINI Countryman Cooper,MINI,2019,"$15,888","32,810",Gray,Black,Automatic,FWD
+2017 GMC Terrain SLE-2,GMC,2017,"$12,900","46,613",White,Black,Automatic,FWD
+2017 Mercedes-Benz AMG GLE 63 S Coupe 4MATIC,Mercedes-Benz,2017,"$59,990","28,352",White,Black,Automatic,AWD
+2018 Toyota Avalon XLE Premium,Toyota,2018,"$15,588","35,062",Red,Black,Automatic,FWD
+2014 Ford Focus SE,Ford,2014,"$5,995","86,032",Red,Black,Automatic,FWD
+2017 Lexus RC 300 F Sport,Lexus,2017,"$26,990","24,752",Gray,Red,Automatic,AWD
+2018 BMW i3 94 Ah w/Range Extender,BMW,2018,"$18,500","7,369",Other,Other,Automatic,RWD
+2016 Toyota Highlander Limited,Toyota,2016,"$19,900","69,000",White,Other,Automatic,FWD
+2016 Hyundai Genesis 3.8,Hyundai,2016,"$18,991","35,021",Blue,Gray,Automatic,AWD
+2011 Hyundai Sonata GLS,Hyundai,2011,"$5,995","89,601",Black,Gray,Automatic,FWD
+2012 Dodge Challenger R/T,Dodge,2012,"$10,500","90,788",Other,Other,Automatic,RWD
+2019 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,2019,"$23,900",42,Black,Black,Automatic,AWD
+2017 Chevrolet Equinox Premier,Chevrolet,2017,"$11,500","54,817",Red,Black,Automatic,FWD
+2018 Nissan Altima 2.5 SR,Nissan,2018,"$14,500",48,Black,Black,CVT,FWD
+2007 Audi A8 L 4.2 quattro,Audi,2007,"$8,938","78,207",Blue,Black,Automatic,AWD
+2017 Audi S6 4.0T Premium Plus,Audi,2017,"$39,900","32,801",White,Red,Automatic,AWD
+2017 Jeep Grand Cherokee Altitude,Jeep,2017,"$22,495","40,492",Black,Black,Automatic,4x4/4-wheel drive
+2017 BMW 530 i,BMW,2017,"$23,800","55,720",Black,Black,Automatic,RWD
+2013 Chevrolet Equinox LS,Chevrolet,2013,"$8,994","65,297",Blue,Black,Automatic,AWD
+2018 Hyundai Elantra SEL,Hyundai,2018,"$11,787","34,625",Red,Gray,Automatic,FWD
+2019 RAM ProMaster 2500 High Roof,RAM,2019,"$23,995","7,827",White,Black,Automatic,FWD
+2011 Mazda Mazda2 Sport,Mazda,2011,"$6,680","98,450",Black,Black,Automatic,FWD
+2017 Nissan Sentra SV,Nissan,2017,"$10,953","27,859",Black,Gray,CVT,FWD
+2005 Nissan 350Z Touring,Nissan,2005,"$11,500","53,000",White,Black,Manual,RWD
+2018 Cadillac CT6 3.0L Twin Turbo Premium Luxury,Cadillac,2018,"$31,900","53,390",White,Beige,Automatic,AWD
+2014 RAM ProMaster 3500 Tradesman,RAM,2014,"$17,295","76,050",Gray,Gray,Automatic,FWD
+2019 Lincoln Nautilus Reserve,Lincoln,2019,"$35,295","15,112",Black,Gray,Automatic,AWD
+2017 Dodge Journey Crossroad,Dodge,2017,"$17,995","37,064",Red,Black,Automatic,FWD
+2019 Nissan Altima 2.5 SR,Nissan,2019,"$15,000","40,901",Black,Other,CVT,FWD
+2018 Honda Accord LX,Honda,2018,"$15,995","13,195",White,Gray,CVT,FWD
+2019 Hyundai Sonata SE,Hyundai,2019,"$13,888","18,447",Gray,Gray,Automatic,FWD
+2019 Hyundai Santa Fe SE 2.4,Hyundai,2019,"$15,995","38,596",Red,Black,Automatic,FWD
+2018 Toyota Camry SE,Toyota,2018,"$14,875","41,983",Black,Black,Automatic,FWD
+2017 Mercedes-Benz AMG GLE 43 Coupe 4MATIC,Mercedes-Benz,2017,"$37,998","58,119",Blue,Brown,Automatic,AWD
+2019 Toyota Corolla Hatchback SE,Toyota,2019,"$17,488","2,198",Brown,Other,Manual,FWD
+2016 Buick Encore Base,Buick,2016,"$12,990","28,539",Silver,Black,Automatic,FWD
+2016 MINI Clubman Cooper,MINI,2016,"$14,120","16,564",Green,Black,Automatic,FWD
+2018 Audi Q3 2.0T Premium Plus,Audi,2018,"$25,888","16,943",White,Brown,Automatic,AWD
+2016 Maserati Quattroporte GTS,Maserati,2016,"$55,188","18,959",Black,Black,Automatic,RWD
+2015 Kia Soul +,Kia,2015,"$8,776","27,415",Green,Black,Automatic,FWD
+2019 Subaru BRZ Limited,Subaru,2019,"$26,239","1,639",Red,Black,Manual,RWD
+2016 Kia Sedona LX,Kia,2016,"$16,399","23,093",Black,Black,Automatic,FWD
+2018 Chrysler Pacifica Touring-L,Chrysler,2018,"$24,980","11,168",Blue,Black,Automatic,FWD
+2007 Ford Explorer Sport Trac XLT,Ford,2007,"$7,495","138,673",Silver,Beige,Automatic,4x4/4-wheel drive
+2013 Buick Encore Leather,Buick,2013,"$11,995","57,755",Red,Black,Automatic,AWD
+2017 Nissan Sentra SV,Nissan,2017,"$7,900","66,003",White,Gray,CVT,FWD
+2011 BMW X5 xDrive 35i Sport Activity,BMW,2011,"$15,995","63,212",White,Black,Automatic,AWD
+2018 Lexus GS F Base,Lexus,2018,"$58,480","6,009",White,Black,Automatic,RWD
+2019 Chrysler Pacifica Touring-L,Chrysler,2019,"$20,980","36,788",White,Black,Automatic,FWD
+2019 Chevrolet Blazer 2LT,Chevrolet,2019,"$31,500","3,820",Gray,Black,Automatic,AWD
+2011 Nissan Armada SL,Nissan,2011,"$13,900","66,018",Black,Beige,Automatic,4x4/4-wheel drive
+2010 Lincoln MKT,Lincoln,2010,"$9,499","99,067",Silver,Beige,Automatic,AWD
+2019 Genesis G80 3.8L,Genesis,2019,"$42,890","5,597",White,Beige,Automatic,AWD
+2017 Jaguar XJ XJ R-Sport,Jaguar,2017,"$29,500","36,874",Red,Other,Automatic,AWD
+2005 Ford Thunderbird 50th Anniversary,Ford,2005,"$13,995","77,338",Gold,Other,Automatic,RWD
+2005 Dodge Magnum SXT,Dodge,2005,"$10,500","61,350",Red,Other,Automatic,AWD
+2011 Subaru Impreza Outback Sport,Subaru,2011,"$8,995","74,000",Red,Black,Automatic,AWD
+2011 Kia Soul,Kia,2011,"$6,400","39,000",Silver,Black,Manual,FWD
+2015 Volvo V60 T5 Platinum,Volvo,2015,"$14,999","60,639",White,Beige,Automatic,AWD
+2014 Kia Forte EX,Kia,2014,"$8,750","42,041",Blue,Gray,Automatic,FWD
+2017 Genesis G90 3.3T Premium,Genesis,2017,"$36,785","38,184",Gray,Black,Automatic,AWD
+2016 Nissan Maxima 3.5 SL,Nissan,2016,"$15,580","34,499",Red,Beige,Automatic,FWD
+2016 Nissan Pathfinder SV,Nissan,2016,"$13,745","45,221",Silver,Gray,Automatic,4x4/4-wheel drive
+2017 Audi A7 3.0T Premium Plus,Audi,2017,"$29,351","50,806",Black,Brown,Automatic,AWD
+2017 Honda Pilot LX,Honda,2017,"$22,202","31,374",White,Beige,Automatic,AWD
+2016 Land Rover Range Rover Sport Supercharged SE,Land,2016,"$30,991","20,913",Black,Black,Automatic,4x4/4-wheel drive
+2013 INFINITI JX35 Base,INFINITI,2013,"$16,495","56,506",Black,Brown,CVT,AWD
+2016 Ford Escape SE,Ford,2016,"$11,808","28,111",Black,Gray,Automatic,4x4/4-wheel drive
+2019 Mitsubishi Outlander SES,Mitsubishi,2019,"$16,995","16,690",Black,Black,CVT,4x4/4-wheel drive
+2009 Chevrolet Express 2500 Cargo,Chevrolet,2009,"$5,200","89,000",White,Gray,Automanual,RWD
+2018 Acura RLX Technology Package,Acura,2018,"$31,995","9,914",Black,Other,Automatic,FWD
+2017 Acura ILX,Acura,2017,"$12,800","51,868",Silver,Black,Automatic,FWD
+2017 BMW M240 i,BMW,2017,"$30,995","18,072",Blue,Black,Manual,RWD
+2012 Chevrolet Cruze ECO,Chevrolet,2012,"$3,250","133,411",Blue,Black,Manual,FWD
+2019 Nissan Armada SV,Nissan,2019,"$29,765","35,285",Silver,Gray,Automatic,AWD
+2008 Ford Expedition XLT,Ford,2008,"$5,999","62,835",Black,Beige,Automatic,4x4/4-wheel drive
+2004 Lexus SC 430 430,Lexus,2004,"$10,990","100,074",Black,Other,Automatic,RWD
+2012 Nissan Rogue S,Nissan,2012,"$7,789","81,453",White,Black,CVT,AWD
+2011 Mercedes-Benz E 350 4MATIC,Mercedes-Benz,2011,"$8,400","51,550",Black,Black,Automatic,AWD
+2005 INFINITI QX56,INFINITI,2005,"$4,995","98,733",Blue,Other,Automatic,4x4/4-wheel drive
+2016 Honda HR-V LX,Honda,2016,"$11,995","60,244",White,Black,CVT,AWD
+2019 Volkswagen Atlas 3.6L SE w/Technology,Volkswagen,2019,"$26,995","27,627",Silver,Black,Automatic,AWD
+2008 Toyota RAV4 Sport,Toyota,2008,"$2,999","115,000",Blue,Gray,Automatic,4x4/4-wheel drive
+2005 Mitsubishi Eclipse GT,Mitsubishi,2005,"$1,900","166,000",Red,Other,Automatic,FWD
+2015 INFINITI Q70 3.7X,INFINITI,2015,"$21,277","46,256",Black,Gray,Automatic,AWD
+2014 Chevrolet Spark EV 2LT,Chevrolet,2014,"$10,990","20,356",Black,Blue,Automatic,FWD
+2019 Nissan Altima 2.5 SL,Nissan,2019,"$15,895","8,763",Black,Gray,CVT,FWD
+2010 MINI Cooper S,MINI,2010,"$4,995","97,620",Gray,Black,Manual,FWD
+2008 Mercedes-Benz R 350 4MATIC,Mercedes-Benz,2008,"$7,995","96,887",Blue,Beige,Automatic,AWD
+2010 Mazda Mazda3 s Grand Touring,Mazda,2010,"$6,495","72,358",Silver,Black,Manual,FWD
+2016 Lexus LS 460 Base,Lexus,2016,"$30,895","39,287",Brown,Other,Automatic,AWD
+2011 BMW ALPINA B7 xDrive SWB,BMW,2011,"$24,995","86,278",Black,Black,Automatic,AWD
+2010 Ford E350 Super Duty XLT,Ford,2010,"$7,000","88,000",Gray,Gray,Automatic,4x2/2-wheel drive
+2019 Kia Forte S,Kia,2019,"$12,777","38,004",Black,Black,CVT,FWD
+2016 Lexus GS F Base,Lexus,2016,"$46,900","37,369",Blue,White,Automatic,RWD
+2017 Cadillac XT5 Luxury AWD,Cadillac,2017,"$20,250","55,638",Blue,Beige,Automatic,AWD
+2016 BMW X6 M Base,BMW,2016,"$42,900","37,091",Gray,Silver,Automatic,AWD
+2013 Scion tC SPORTS 6-SPD,Scion,2013,"$7,750","74,362",White,Black,Automatic,FWD
+2011 Ford E250 E-250,Ford,2011,"$5,795","203,813",White,Gray,Automatic,RWD
+2018 Dodge Grand Caravan GT,Dodge,2018,"$15,979","43,398",Black,Black,Automatic,FWD
+2017 BMW M4 Base,BMW,2017,"$41,950","34,689",Blue,Orange,Automatic,RWD
+2017 Acura ILX Premium Package,Acura,2017,"$16,499","18,398",Gray,Beige,Automatic,FWD
+2010 Dodge Grand Caravan SE,Dodge,2010,"$7,490","55,259",Silver,Gray,Automatic,FWD
+2018 Nissan Altima 2.5 SV,Nissan,2018,"$11,900","36,419",Black,Black,CVT,FWD
+2019 Honda Accord Hybrid EX-L,Honda,2019,"$24,550","23,224",Red,Red,CVT,FWD
+2017 BMW 740 i xDrive,BMW,2017,"$31,900","41,047",Black,White,Automatic,AWD
+2017 BMW 430 Gran Coupe i xDrive,BMW,2017,"$19,795","60,151",Black,Black,Automatic,AWD
+2017 Mercedes-Benz AMG GLS 63 Base 4MATIC,Mercedes-Benz,2017,"$52,777","55,960",Black,Black,Automatic,AWD
+2017 Mazda Mazda6 Sport,Mazda,2017,"$13,577","30,369",Red,Black,Automatic,FWD
+2018 Nissan Rogue S,Nissan,2018,"$11,498","18,530",Black,Black,CVT,AWD
+2016 BMW 435 Gran Coupe i,BMW,2016,"$19,990","35,795",Black,Red,Automatic,RWD
+2017 Audi A5 2.0T Sport,Audi,2017,"$19,990","40,288",White,Black,Automatic,AWD
+2012 Hyundai Santa Fe GLS,Hyundai,2012,"$5,892","124,761",Blue,Gray,Automatic,FWD
+2017 Jeep Patriot High Altitude,Jeep,2017,"$14,991","24,177",White,Other,Automatic,4x4/4-wheel drive
+2015 Dodge Durango Limited,Dodge,2015,"$15,900","35,563",Other,Other,Automatic,RWD
+2019 BMW X3 sDrive30i,BMW,2019,"$28,900","1,560",Black,Gray,Automatic,RWD
+2019 Ford Transit-150 Base,Ford,2019,"$18,500",15,Other,Other,Automatic,RWD
+2016 Chevrolet Cruze LT Automatic,Chevrolet,2016,"$6,899","70,498",Silver,Gray,Automatic,FWD
+2018 Porsche Cayenne E-Hybrid S Platinum Edition,Porsche,2018,"$43,800","66,196",White,Black,Automatic,AWD
+2019 Lincoln Nautilus Reserve,Lincoln,2019,"$41,900","6,045",White,Red,Automatic,AWD
+2015 Chrysler 200 C,Chrysler,2015,"$6,995","81,258",Silver,Black,Automatic,AWD
+2012 Chrysler Town & Country Touring-L,Chrysler,2012,"$6,995","106,745",Gray,Black,Automatic,FWD
+2019 Chevrolet Impala 1LT,Chevrolet,2019,"$15,999","24,412",White,Black,Automatic,FWD
+2019 Honda Passport AWD Elite,Honda,2019,"$36,250","13,022",White,Black,Automatic,AWD
+2017 Volvo XC90 Hybrid T8 Inscription,Volvo,2017,"$32,195","97,393",Black,Beige,Automatic,AWD
+2017 Mitsubishi Lancer SEL,Mitsubishi,2017,"$13,900","19,265",Black,Black,CVT,4x4/4-wheel drive
+2020 Chevrolet Traverse LT Leather,Chevrolet,2020,"$33,995","10,737",Gray,Black,Automatic,AWD
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,2018,"$24,900","32,009",Black,Black,Automatic,AWD
+2017 Jaguar XF 20d Premium,Jaguar,2017,"$20,995","34,458",Silver,Black,Automatic,AWD
+2016 Mazda CX-3 Touring,Mazda,2016,"$12,895","57,703",Red,Black,Automatic,AWD
+2019 Honda Civic Type R Touring,Honda,2019,"$31,995","12,983",Gray,Black,Manual,FWD
+2008 Bentley Continental Flying Spur,Bentley,2008,"$46,995","41,000",Black,Black,Automatic,AWD
+2017 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,2017,"$46,989","40,365",Black,Black,Automatic,AWD
+2019 Lincoln Navigator Standard,Lincoln,2019,"$44,998","31,541",Black,Black,Automatic,4x4/4-wheel drive
+2019 Acura TLX Technology & A-Spec,Acura,2019,"$28,340","15,833",Black,Red,Automatic,FWD
+2016 Land Rover Range Rover Sport Supercharged SE,Land,2016,"$31,400","38,684",Black,Black,Automatic,4x4/4-wheel drive
+2012 Buick LaCrosse Premium 1,Buick,2012,"$10,795","46,215",Beige,Brown,Automatic,FWD
+2019 Dodge Journey R/T,Dodge,2019,"$19,397","34,292",Silver,Black,Automatic,AWD
+2015 Toyota Prius v Five,Toyota,2015,"$18,190","14,830",Blue,Other,CVT,FWD
+2016 Buick Cascada Premium,Buick,2016,"$17,677","34,004",Black,Other,Automatic,FWD
+2019 Ford Transit-350 XLT,Ford,2019,"$27,450","23,935",Silver,Black,Automatic,RWD
+2017 BMW 440 Gran Coupe i,BMW,2017,"$26,595","35,899",Gray,Red,Automatic,RWD
+2017 BMW 430 Gran Coupe i xDrive,BMW,2017,"$25,833","26,603",Black,Red,Automatic,AWD
+2017 INFINITI QX30 Base,INFINITI,2017,"$17,393","27,835",Silver,Gray,Automatic,FWD
+2016 Toyota Land Cruiser V8,Toyota,2016,"$52,995","40,760",Black,Orange,Automatic,4x4/4-wheel drive
+2014 INFINITI Q50 Premium,INFINITI,2014,"$10,995","135,773",Gray,Gray,Automatic,AWD
+2013 Ford Transit Connect XL,Ford,2013,"$8,995","48,000",White,Black,Automatic,FWD
+2014 Acura ILX 2.0L,Acura,2014,"$6,900","177,233",Gray,Black,Automatic,FWD
+2013 Chrysler 300C Luxury Series,Chrysler,2013,"$14,370","71,287",Beige,Beige,Automatic,AWD
+2014 Jeep Cherokee Latitude,Jeep,2014,"$9,991","77,714",Silver,Black,Automatic,4x4/4-wheel drive
+2017 Toyota Corolla SE,Toyota,2017,"$13,790","27,237",White,Black,CVT,FWD
+2009 Pontiac G8 GT,Pontiac,2009,"$15,495","91,279",Gray,Black,Automatic,RWD
+2019 Subaru Ascent Base 8-Passenger,Subaru,2019,"$26,335","22,988",Black,Black,CVT,AWD
+2007 Lincoln Town Car Signature Limited,Lincoln,2007,"$12,500","45,491",Silver,Gray,Automatic,RWD
+2018 Hyundai Santa Fe Sport 2.0L Turbo Ultimate,Hyundai,2018,"$23,999","16,657",White,Beige,Automatic,AWD
+2018 RAM ProMaster 2500 High Roof,RAM,2018,"$23,999","29,722",White,Black,Automatic,FWD
+2018 BMW X2 xDrive28i,BMW,2018,"$24,450","29,709",Black,Black,Automatic,AWD
+2019 Mazda MX-5 Miata RF Grand Touring,Mazda,2019,"$28,750","1,780",Black,Other,Automatic,RWD
+2014 Volkswagen Jetta SportWagen Auto SE w/Sunroof PZEV,Volkswagen,2014,"$6,977","108,756",White,Black,Automatic,FWD
+2008 Honda Civic Hybrid,Honda,2008,"$3,985","164,389",Silver,White,CVT,FWD
+2019 Dodge Journey SE,Dodge,2019,"$18,495","6,894",Black,Black,Automatic,FWD
+2017 Toyota RAV4 LE,Toyota,2017,"$12,745","44,469",White,Other,Automatic,AWD
+2018 Volkswagen Atlas 2.0T S,Volkswagen,2018,"$24,888","9,361",Silver,Black,Automatic,FWD
+2017 Acura MDX 3.5L w/Technology Package,Acura,2017,"$23,480","41,193",White,Brown,Automatic,AWD
+2017 INFINITI Q50 3.0T Premium,INFINITI,2017,"$17,490","30,245",Gray,Black,Automatic,AWD
+2016 Honda CR-V EX-L,Honda,2016,"$14,599","36,374",Black,Black,CVT,AWD
+2016 Lexus GS 350 Base,Lexus,2016,"$26,995","54,058",Black,Red,Automatic,AWD
+2010 Mitsubishi Galant FE,Mitsubishi,2010,"$2,800","193,670",Black,Black,Automatic,FWD
+2013 Nissan Xterra PRO-4X,Nissan,2013,"$10,995","108,982",Black,Gray,Automatic,4x4/4-wheel drive
+2018 Mercedes-Benz Metris,Mercedes-Benz,2018,"$24,642","16,385",Black,Black,Automatic,RWD
+2018 Chevrolet Equinox 1LT,Chevrolet,2018,"$18,495","14,200",Gray,Black,Automatic,FWD
+2007 Mercedes-Benz R 350 4MATIC,Mercedes-Benz,2007,"$5,499","105,849",Silver,Black,Automatic,AWD
+2013 Volkswagen Passat 2.5 S,Volkswagen,2013,"$4,250","112,458",Black,Black,Automatic,FWD
+2010 Hyundai Santa Fe SE,Hyundai,2010,"$4,495","98,992",Black,Gray,Automatic,FWD
+2005 Nissan Murano SL,Nissan,2005,"$2,999","113,000",Silver,Other,CVT,AWD
+2008 Saab 9-5 2.3T,Saab,2008,"$7,995","58,131",Gray,Black,Automatic,FWD
+2014 Chrysler Town & Country Touring-L,Chrysler,2014,"$9,500","35,100",Blue,Black,Automanual,FWD
+2008 Land Rover Range Rover Sport HSE,Land,2008,"$8,800","67,352",Black,Black,Automatic,4x4/4-wheel drive
+2010 Hyundai Elantra GLS,Hyundai,2010,"$1,999","118,585",Beige,Beige,Automatic,FWD
+2009 Honda Civic GX,Honda,2009,"$4,495","54,107",Silver,Other,Automatic,FWD
+2009 Chevrolet Tahoe LT,Chevrolet,2009,"$10,999","144,469",Silver,Gray,Automatic,4x4/4-wheel drive
+2014 Scion iQ Base,Scion,2014,"$9,589","37,150",Silver,Black,CVT,FWD
+2010 Toyota Prius I,Toyota,2010,"$4,499","139,854",Gray,Other,CVT,FWD
+2014 Dodge Grand Caravan SXT,Dodge,2014,"$7,995","74,118",White,Beige,Automatic,FWD
+2009 Buick Enclave CX,Buick,2009,"$5,399","101,636",Gray,Other,Automatic,FWD
+2013 BMW X6 xDrive50i,BMW,2013,"$20,775","68,032",Black,Black,Automatic,AWD
+2019 Chrysler Pacifica Limited,Chrysler,2019,"$33,500","8,972",Silver,Black,Automatic,FWD
+2017 Volvo S90 T6 Momentum,Volvo,2017,"$25,999","10,750",Blue,Beige,Automatic,AWD
+2008 Mercury Mountaineer Premier,Mercury,2008,"$5,995","117,918",Red,Beige,Automatic,AWD
+2017 Maserati Levante S,Maserati,2017,"$38,995","63,787",Gray,Other,Automatic,AWD
+2018 Ford Taurus Limited,Ford,2018,"$13,999","35,383",White,Black,Automatic,FWD
+2016 Mercedes-Benz CLA 250 4MATIC,Mercedes-Benz,2016,"$14,999","68,234",Gray,Gray,Automatic,AWD
+2013 Maserati GranTurismo MC,Maserati,2013,"$32,995","74,400",Gray,Black,Automatic,RWD
+2010 Land Rover LR2 HSE,Land,2010,"$6,995","116,471",Silver,Black,Automatic,4x4/4-wheel drive
+2017 Lexus NX 200t F Sport,Lexus,2017,"$24,990","21,032",Black,Black,Automatic,AWD
+2011 BMW X6 xDrive50i,BMW,2011,"$15,999","63,379",Black,Black,Automatic,AWD
+2006 Hummer H2 SUT,Hummer,2006,"$24,000","73,567",White,Black,Automatic,4x4/4-wheel drive
+2011 INFINITI G37 x,INFINITI,2011,"$8,800","95,000",Black,Black,Automatic,AWD
+2013 Subaru Impreza WRX Base,Subaru,2013,"$15,995","70,189",White,Gray,Manual,AWD
+2019 Lexus RC F Base,Lexus,2019,"$56,888","27,632",Gray,Black,Automatic,RWD
+2018 Jeep Cherokee Latitude,Jeep,2018,"$13,988","42,051",Black,Black,Automatic,4x4/4-wheel drive
+2018 Mazda Mazda6 Touring,Mazda,2018,"$14,888","40,156",Black,Black,Automatic,FWD
+2018 Acura ILX,Acura,2018,"$13,900","13,462",White,Black,Automatic,FWD
+2007 Chevrolet Avalanche LTZ,Chevrolet,2007,"$6,987","178,061",White,Black,Automatic,4x4/4-wheel drive
+2017 Acura TLX FWD,Acura,2017,"$14,900","30,655",White,Gray,Automatic,FWD
+2006 Mazda Mazda3 i Touring,Mazda,2006,"$3,199","131,714",Gray,Black,Manual,FWD
+2015 Mercedes-Benz GL 450 4MATIC,Mercedes-Benz,2015,"$19,900","60,242",Black,Black,Automatic,AWD
+2018 Nissan 370Z Sport Tech,Nissan,2018,"$19,995","27,717",Red,Black,Automatic,RWD
+2016 BMW 740 i,BMW,2016,"$28,400","38,448",Gray,Black,Automatic,RWD
+2010 Chrysler 300 Touring/Signature/Executive Series,Chrysler,2010,"$3,757","138,958",White,Gray,Automatic,RWD
+2018 Dodge Journey GT,Dodge,2018,"$20,600","12,957",Black,Black,Automatic,AWD
+2019 Dodge Durango R/T,Dodge,2019,"$33,800","11,045",Black,Black,Automatic,AWD
+2019 Volvo XC90 T5 Momentum,Volvo,2019,"$34,900",8,White,Other,Automatic,AWD
+2018 Hyundai Sonata SE,Hyundai,2018,"$12,500",20,Black,Gray,Automatic,FWD
+2005 Pontiac Vibe,Pontiac,2005,"$4,999","111,842",Red,Black,Automatic,FWD
+2018 Hyundai Sonata SE,Hyundai,2018,"$12,500",25,White,Gray,Automatic,FWD
+2018 Buick Encore Essence,Buick,2018,"$13,500",955,Black,Other,Automatic,FWD
+2019 Volvo XC90 T6 Momentum,Volvo,2019,"$37,900",12,Black,Black,Automatic,AWD
+2018 Chevrolet Malibu LT,Chevrolet,2018,"$10,000","21,222",Silver,Black,Automatic,FWD
+2015 Mercedes-Benz GLA 250 4MATIC,Mercedes-Benz,2015,"$13,695","80,943",White,Black,Automatic,AWD
+2018 BMW X4 xDrive28i,BMW,2018,"$26,495","46,577",White,Brown,Automatic,AWD
+2020 Nissan Altima 2.5 SL,Nissan,2020,"$17,500",8,Silver,Other,CVT,FWD
+2006 Jeep Commander Base,Jeep,2006,"$4,995","103,678",Brown,Beige,Automatic,4x4/4-wheel drive
+2000 Toyota Celica GT,Toyota,2000,"$5,500","131,000",White,Black,Automatic,FWD
+2019 Ford Transit-350 XLT,Ford,2019,"$30,990","15,217",Black,Other,Automatic,RWD
+2012 Acura MDX 3.7L Advance,Acura,2012,"$11,495","103,743",White,Black,Automatic,AWD
+2019 Mercedes-Benz A 220,Mercedes-Benz,2019,"$26,800","7,009",Black,Black,Automatic,FWD
+2019 Mercedes-Benz CLS 450 Base,Mercedes-Benz,2019,"$57,800","4,273",Other,Black,Automatic,RWD
+2019 Volkswagen Jetta 1.4T SE,Volkswagen,2019,"$13,999","14,662",Black,Black,Automatic,FWD
+2011 Lincoln MKX NAV--PANOROOF--CHROME WHEELS,Lincoln,2011,"$13,800","66,684",Red,Gray,Automatic,AWD
+2019 Subaru Ascent Premium 8-Passenger,Subaru,2019,"$28,295","7,485",Gray,White,CVT,AWD
+2007 Hummer H2 Base,Hummer,2007,"$16,995","110,679",Black,Other,Automatic,4x4/4-wheel drive
+2018 Toyota Corolla SE,Toyota,2018,"$12,295","20,268",Silver,Black,CVT,FWD
+2016 Cadillac CT6 3.0L Twin Turbo Premium Luxury,Cadillac,2016,"$24,995","73,347",White,Black,Automatic,AWD
+2013 Porsche Panamera 4S,Porsche,2013,"$27,500","56,875",Brown,Beige,Automatic,AWD
+2015 Mercedes-Benz C 300,Mercedes-Benz,2015,"$13,995","57,988",White,Black,Automatic,AWD
+2016 BMW 335 Gran Turismo i xDrive,BMW,2016,"$20,900","29,750",Gray,Black,Automatic,AWD
+2017 Mercedes-Benz GLC 300 4MATIC Coupe,Mercedes-Benz,2017,"$32,988","22,385",Silver,Black,Automatic,AWD
+2016 Lexus NX 200t Base,Lexus,2016,"$19,900","32,261",White,Black,Automatic,AWD
+2017 BMW 650 Gran Coupe i xDrive,BMW,2017,"$40,000","22,779",White,Black,Automatic,AWD
+2018 Volvo V60 Cross Country T5,Volvo,2018,"$25,000","22,636",Black,Other,Automatic,AWD
+2020 Dodge Durango GT Plus,Dodge,2020,"$32,797","12,686",Gray,Black,Automatic,AWD
+2019 GMC Sierra 1500 Limited Base,GMC,2019,"$29,745","7,907",Black,Gray,Automatic,4x4/4-wheel drive
+2010 INFINITI FX35 3.5 AWD NAV S/R CD,INFINITI,2010,"$11,495","82,908",Brown,Brown,Automatic,AWD
+2010 INFINITI QX56,INFINITI,2010,"$13,995","100,520",White,Beige,Automatic,4x4/4-wheel drive
+2015 Hyundai Sonata Limited 2.0T,Hyundai,2015,"$11,985","53,374",Black,Black,Automatic,FWD
+2019 RAM ProMaster 2500 High Roof,RAM,2019,"$25,380","13,966",White,Black,Automatic,FWD
+2008 Nissan Sentra 2.0 SL,Nissan,2008,"$5,995","88,072",Red,Black,CVT,FWD
+2018 Chrysler 300 Touring,Chrysler,2018,"$16,900","18,035",Gray,Black,Automatic,RWD
+2003 Saturn LW 200,Saturn,2003,"$3,995","73,311",Gray,Beige,Automatic,FWD
+2018 Dodge Durango GT,Dodge,2018,"$26,390","36,789",White,Black,Automatic,AWD
+2015 BMW M6 Gran Coupe Base,BMW,2015,"$49,000","22,500",Gray,Black,Automatic,RWD
+2017 BMW X5 M Base,BMW,2017,"$55,450","22,467",Black,Black,Automatic,AWD
+2005 GMC Envoy XL SLE,GMC,2005,"$2,495","157,875",Silver,Silver,Automatic,4x4/4-wheel drive
+2006 Cadillac DTS Luxury I,Cadillac,2006,"$3,995","105,395",Silver,Beige,Automatic,FWD
+2019 Nissan Altima 2.5 SR,Nissan,2019,"$14,999","36,010",Blue,Gray,CVT,FWD
+2017 Acura RDX SH-AWD,Acura,2017,"$21,591","39,342",White,Beige,Automatic,AWD
+2000 Cadillac Eldorado ESC,Cadillac,2000,"$8,995","63,432",Gray,Gray,Automatic,FWD
+2009 Mercedes-Benz SL550 Roadster,Mercedes-Benz,2009,"$22,995","36,000",Other,Other,Automatic,RWD
+2017 Hyundai Santa Fe Sport 2.4L,Hyundai,2017,"$17,000","20,682",White,Beige,Automatic,AWD
+2018 Nissan Altima 2.5 SV,Nissan,2018,"$8,995","45,518",Black,Black,CVT,FWD
+2018 Nissan Sentra SV,Nissan,2018,"$12,888","40,146",Black,Gray,Automatic,FWD
+2019 Dodge Grand Caravan GT,Dodge,2019,"$13,800","47,559",Gray,Black,Automatic,FWD
+2018 Acura TLX V6 w/Technology Package,Acura,2018,"$24,500","10,667",Black,Other,Automatic,FWD
+2015 Toyota Avalon Limited,Toyota,2015,"$15,900","38,294",White,Other,Automatic,FWD
+2014 Scion xB,Scion,2014,"$9,880","68,464",Black,Black,Manual,FWD
+2015 MINI Convertible Cooper S,MINI,2015,"$15,999","15,810",White,Black,Other / Unknown,FWD
+2019 INFINITI QX50 LUXE,INFINITI,2019,"$26,495","34,606",White,Gray,CVT,AWD
+2017 Buick LaCrosse Preferred,Buick,2017,"$23,995","4,758",Black,Beige,Automatic,FWD
+2013 Volkswagen Passat 2.5 SE,Volkswagen,2013,"$9,995","26,938",Black,Black,Automatic,FWD
+2012 Nissan Versa 1.8 S,Nissan,2012,"$4,995","85,447",Gray,Gray,Automatic,FWD
+2019 Dodge Grand Caravan SXT,Dodge,2019,"$18,981","34,639",Red,Black,Automatic,FWD
+2016 Ford Flex Limited w/EcoBoost,Ford,2016,"$23,195","40,589",Gray,Black,Automatic,AWD
+2007 Nissan Murano SL,Nissan,2007,"$2,499","159,108",Black,Gray,CVT,AWD
+2005 Acura RSX,Acura,2005,"$4,000","202,000",White,Beige,Automatic,FWD
+2019 Mercedes-Benz Sprinter 3500,Mercedes-Benz,2019,"$59,939","2,356",White,Black,Automatic,RWD
+2015 BMW X6 xDrive35i,BMW,2015,"$32,277","27,636",White,Beige,Automatic,AWD
+2017 Maserati Levante Base,Maserati,2017,"$39,895","32,993",Red,Other,Automatic,AWD
+2013 Volkswagen CC 2.0T R-Line,Volkswagen,2013,"$9,895","42,788",Brown,Beige,Automatic,FWD
+2010 Toyota Camry 2.0 LE,Toyota,2010,"$3,999","117,297",White,Other,Automatic,FWD
+2015 Lexus RC F Base,Lexus,2015,"$35,895","60,659",Blue,Black,Automatic,RWD
+2015 INFINITI Q70L 3.7X,INFINITI,2015,"$21,900","77,023",White,Black,Automatic,AWD
+2008 Ford E350 Super Duty,Ford,2008,"$8,999","65,833",Gray,Gray,Automatic,RWD
+2015 Audi S7 4.0T quattro,Audi,2015,"$38,995","42,750",Silver,Other,Automatic,AWD
+2005 Cadillac STS V8,Cadillac,2005,"$5,995","73,510",White,Beige,Automatic,RWD
+2017 Genesis G90 3.3T Premium,Genesis,2017,"$32,495","27,818",White,Black,Automatic,RWD
+2014 Jeep Grand Cherokee Limited,Jeep,2014,"$15,895","90,291",Gray,Black,Automatic,4x4/4-wheel drive
+2013 Dodge Grand Caravan SXT,Dodge,2013,"$6,900","82,431",Black,Gray,Automatic,FWD
+2014 Land Rover LR4 Lux,Land,2014,"$19,990","77,866",Green,Other,Automatic,4x4/4-wheel drive
+2016 Volkswagen Eos Komfort Edition,Volkswagen,2016,"$23,999","18,285",White,Beige,Automatic,FWD
+2010 Hyundai Elantra Touring SE,Hyundai,2010,"$4,995","87,015",Silver,Black,Automatic,FWD
+2016 BMW 528 i xDrive,BMW,2016,"$17,995","36,649",Black,Brown,Automatic,AWD
+2020 Nissan Rogue SV,Nissan,2020,"$16,500","26,060",Blue,Black,CVT,AWD
+2018 Chevrolet Equinox 1LT,Chevrolet,2018,"$12,390","45,691",Black,Black,Automatic,AWD
+2017 Toyota 86,Toyota,2017,"$19,950","24,743",Blue,Black,Automatic,RWD
+2019 Ford Edge ST,Ford,2019,"$26,329","10,220",White,Black,Automatic,AWD
+2015 Mercedes-Benz CLA 45 AMG 4MATIC,Mercedes-Benz,2015,"$24,888","53,494",Black,Black,Automatic,AWD
+2009 Lexus GX 470,Lexus,2009,"$13,890","102,089",Silver,White,Automatic,4x4/4-wheel drive
+2016 Nissan Altima 2.5 SL,Nissan,2016,"$11,995","36,158",Gray,Black,Automatic,FWD
+2010 Dodge Journey SXT,Dodge,2010,"$3,887","130,943",Black,Gray,Automatic,FWD
+2018 Mazda Mazda6 Touring,Mazda,2018,"$14,888","37,798",Black,Black,Automatic,FWD
+2015 INFINITI QX70 Base,INFINITI,2015,"$14,219","128,363",White,Gray,Automatic,RWD
+2016 BMW 750 i xDrive,BMW,2016,"$31,500","35,630",Gray,Black,Automatic,AWD
+2016 Ford Transit-350 XLT,Ford,2016,"$19,965","48,182",White,Gray,Automatic,RWD
+2017 Maserati Ghibli Base,Maserati,2017,"$28,900","48,802",Other,Red,Automatic,RWD
+2009 Acura TSX,Acura,2009,"$9,215","51,332",Black,Other,Automatic,FWD
+2019 Volkswagen Atlas 3.6 V6 SEL R-Line,Volkswagen,2019,"$36,099","1,393",Blue,Beige,Automatic,FWD
+2017 Mercedes-Benz E 300 4MATIC Sport,Mercedes-Benz,2017,"$25,689","28,963",Black,Black,Automatic,AWD
+2019 Subaru Legacy,Subaru,2019,"$12,900",62,Black,Black,CVT,AWD
+2019 Dodge Durango GT,Dodge,2019,"$24,900",28,Silver,Black,Automatic,RWD
+2017 Lexus NX 200t F Sport,Lexus,2017,"$23,990","21,248",Silver,Black,Automatic,AWD
+2017 Hyundai Elantra Limited,Hyundai,2017,"$9,995","41,824",Silver,Black,Automatic,FWD
+2016 Ford Explorer Limited,Ford,2016,"$21,500","30,669",Other,Other,Automatic,4x4/4-wheel drive
+2019 Chevrolet Equinox 1LT,Chevrolet,2019,"$16,500",328,Silver,Gray,Automatic,AWD
+2017 Nissan Altima 2.5 S,Nissan,2017,"$9,480","36,476",White,Gray,CVT,FWD
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,2018,"$36,500",43,Blue,Beige,Automatic,AWD
+2018 Buick Encore Essence,Buick,2018,"$13,500",62,Black,Other,Automatic,FWD
+2015 Chevrolet Tahoe LTZ,Chevrolet,2015,"$24,900","62,990",Other,Other,Automatic,4x4/4-wheel drive
+2010 Dodge Grand Caravan SE,Dodge,2010,"$2,995","176,903",Brown,Black,Automatic,FWD
+2004 GMC Envoy SLT,GMC,2004,"$3,295","158,537",Red,Gray,Automatic,4x4/4-wheel drive
+2013 Toyota Highlander Base Plus,Toyota,2013,"$15,798","39,801",Gray,Black,Automatic,AWD
+2017 Mercedes-Benz GLE 550e Base 4MATIC,Mercedes-Benz,2017,"$35,800","40,162",White,Brown,Automatic,AWD
+2019 Nissan Sentra SV,Nissan,2019,"$10,495","10,665",Silver,Gray,CVT,FWD
+2013 Cadillac ATS 2.0L Turbo,Cadillac,2013,"$10,998","65,552",Black,Black,Manual,RWD
+2018 Genesis G80 3.8L,Genesis,2018,"$23,020","41,697",White,Beige,Automatic,RWD
+2019 Volkswagen Arteon 2.0T SEL Premium,Volkswagen,2019,"$33,730","1,963",Silver,Black,Automatic,AWD
+2010 Lexus LS 460 Base,Lexus,2010,"$11,900","107,023",Gold,Other,Automatic,AWD
+2019 Nissan Altima 2.5 SL,Nissan,2019,"$16,995","2,137",Black,Other,CVT,FWD
+2016 BMW i3 Base w/Range Extender,BMW,2016,"$17,265","31,364",Silver,White,Automatic,RWD
+2017 Nissan Sentra SL,Nissan,2017,"$12,900","15,120",Gray,Gray,CVT,FWD
+2016 Maserati Ghibli S Q4,Maserati,2016,"$25,777","39,246",Gray,Black,Automatic,AWD
+2017 Jaguar XF 35t R-Sport,Jaguar,2017,"$20,335","80,435",Green,Black,Automatic,AWD
+2017 BMW X6 xDrive35i,BMW,2017,"$37,998","30,388",Black,Red,Automatic,AWD
+2017 BMW 320 i xDrive,BMW,2017,"$14,900","45,830",Red,Brown,Automatic,AWD
+2019 Jeep Wrangler Unlimited Sahara,Jeep,2019,"$35,000","18,547",Black,Red,Manual,4x4/4-wheel drive
+2018 Honda Accord Sport,Honda,2018,"$17,998","13,875",Black,Black,CVT,FWD
+2017 INFINITI Q60 3.0T Premium,INFINITI,2017,"$24,750","40,227",Black,Gray,Automatic,AWD
+2019 Dodge Journey Crossroad,Dodge,2019,"$24,395","15,776",Black,Black,Automatic,AWD
+2012 MINI Cooper Countryman Base,MINI,2012,"$7,995","79,163",White,Black,Automatic,FWD
+2018 Acura ILX 4DR SDN,Acura,2018,"$15,997","26,171",Blue,Gray,Automatic,FWD
+2017 Nissan Altima 2.5 SR,Nissan,2017,"$13,280","40,232",White,Blue,CVT,FWD
+2014 Maserati Ghibli S Q4,Maserati,2014,"$26,900","33,477",White,Brown,Automatic,AWD
+2018 Chrysler Pacifica Touring-L,Chrysler,2018,"$23,980","10,554",White,Black,Automatic,FWD
+2013 Porsche Boxster S,Porsche,2013,"$38,549","26,701",Black,Black,Manual,RWD
+2015 Ford Transit Connect Titanium,Ford,2015,"$16,990","30,421",White,Gray,Automatic,FWD
+2013 Dodge Dart Limited/GT,Dodge,2013,"$7,995","68,653",Gray,Black,Automatic,FWD
+2017 Buick Regal Turbo Sport Touring,Buick,2017,"$18,299","5,733",Black,Beige,Automatic,FWD
+2020 Cadillac XT6 Premium Luxury AWD,Cadillac,2020,"$49,995","4,030",Silver,Black,Automatic,AWD
+2016 Lexus GS 350 Base,Lexus,2016,"$23,750","34,554",White,Beige,Automatic,AWD
+2017 Hyundai Sonata Limited 2.0T,Hyundai,2017,"$18,198","24,133",White,Black,Automatic,FWD
+2006 Volvo XC70,Volvo,2006,"$4,590","100,000",Green,Other,Automatic,AWD
+2008 Cadillac DTS W/1SC,Cadillac,2008,"$11,995","46,677",White,Gray,Automatic,FWD
+2019 Cadillac XT4 Sport,Cadillac,2019,"$35,999","2,110",Black,Black,Automatic,FWD
+2006 Chrysler 300C Base,Chrysler,2006,"$6,799","80,224",Silver,Gray,Automatic,RWD
+2018 INFINITI QX60 Base,INFINITI,2018,"$25,430","27,233",Silver,Gray,CVT,AWD
+2012 Chrysler 200 Touring,Chrysler,2012,"$5,599","104,691",White,Black,Automatic,FWD
+2009 Volkswagen Touareg 2 V6 TDI,Volkswagen,2009,"$9,699","106,895",White,Black,Automatic,AWD
+2018 INFINITI QX60 Base,INFINITI,2018,"$22,388","42,641",Black,Beige,CVT,FWD
+2017 Ford Fusion Hybrid Titanium,Ford,2017,"$13,855","54,264",Silver,Black,CVT,FWD
+2014 Nissan Murano SL,Nissan,2014,"$13,485","53,302",Blue,Black,CVT,AWD
