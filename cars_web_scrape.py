@@ -11,13 +11,27 @@ import re
 
 driver = webdriver.Chrome()
 
-x_ = 'https://www.cars.com/for-sale/searchresults.action/?page=1&perPage=20&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=10001'
-
-driver.get(x_)
+#x_ = 'https://www.cars.com/for-sale/searchresults.action/?page=1&perPage=20&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=10001'
 
 
 
 
+
+
+
+#driver.get(x_)
+
+link_beginning = 'https://www.cars.com/for-sale/searchresults.action/?page='
+link_end = '&perPage=20&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=10001'
+
+#list of pages
+
+links = []
+
+for i in range(1,10):
+    page_number = str(i)
+    single_link = link_beginning + page_number + link_end
+    links.append(single_link)
 
 
 
@@ -28,38 +42,49 @@ writer = csv.writer(csv_file)
 writer.writerow(["Listing","Make","Year_model","Price","Milage","Exterior_color","Interior_color","Transmission","Drivetrain"])
 
 
-listings_per_page = driver.find_elements_by_xpath("//div[@class = 'listing-row__details']")
-
-for i in range(len(listings_per_page)):
-    cars_dict = {}
-
-
-    each_listing = listings_per_page[i]
-
-    title = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text
-    make = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text.split(' ')[1]
-    year_model = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text.split(' ')[0]
-    price = each_listing.find_elements_by_xpath(".//div[@class='payment-section']")[0].text.split(' ')[0]
-    milage = each_listing.find_elements_by_xpath(".//div[@class='payment-section']")[0].text.split(' ')[-2]
-    exterior_color = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[1]").text.split(':')[1].strip()
-    interior_color = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[2]").text.split(':')[1].strip()
-    transmission = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[3]").text.split(':')[1].strip()
-    drivetrain = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[4]").text.split(':')[1].strip()
 
 
 
-    #add to dictionary
-    cars_dict['title'] = title
-    cars_dict['make'] = make
-    cars_dict['year_model'] = year_model
-    cars_dict['price'] = price
-    cars_dict['milage'] = milage
-    cars_dict['exterior_color']= exterior_color
-    cars_dict['interior_color'] = interior_color
-    cars_dict['transmission'] = transmission
-    cars_dict['drivetrain'] = drivetrain
+for i in range(len(links)):
+    
+    page_ = links[i]
+    driver.get(page_) 
+    time.sleep(4)
 
-    writer.writerow(cars_dict.values())
+    listings_per_page = driver.find_elements_by_xpath("//div[@class = 'listing-row__details']")
+
+
+
+    for i in range(len(listings_per_page)):
+        cars_dict = {}
+
+
+        each_listing = listings_per_page[i]
+
+        title = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text
+        make = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text.split(' ')[1]
+        year_model = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text.split(' ')[0]
+        price = each_listing.find_elements_by_xpath(".//div[@class='payment-section']")[0].text.split(' ')[0]
+        milage = each_listing.find_elements_by_xpath(".//div[@class='payment-section']")[0].text.split(' ')[-2]
+        exterior_color = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[1]").text.split(':')[1].strip()
+        interior_color = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[2]").text.split(':')[1].strip()
+        transmission = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[3]").text.split(':')[1].strip()
+        drivetrain = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[4]").text.split(':')[1].strip()
+
+
+
+        #add to dictionary
+        cars_dict['title'] = title
+        cars_dict['make'] = make
+        cars_dict['year_model'] = year_model
+        cars_dict['price'] = price
+        cars_dict['milage'] = milage
+        cars_dict['exterior_color']= exterior_color
+        cars_dict['interior_color'] = interior_color
+        cars_dict['transmission'] = transmission
+        cars_dict['drivetrain'] = drivetrain
+
+        writer.writerow(cars_dict.values())
 
 
 
