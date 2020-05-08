@@ -16,8 +16,17 @@ x_ = 'https://www.cars.com/for-sale/searchresults.action/?page=1&perPage=20&prMx
 driver.get(x_)
 
 
+
+
+
+
+
 csv_file = open('cars.csv','w',encoding ='utf-8',newline = '')
 writer = csv.writer(csv_file)
+
+#add headers
+writer.writerow(["Listing","Make","Year_model","Price","Milage","Exterior_color","Interior_color","Transmission","Drivetrain"])
+
 
 listings_per_page = driver.find_elements_by_xpath("//div[@class = 'listing-row__details']")
 
@@ -26,12 +35,35 @@ for i in range(len(listings_per_page)):
 
 
     each_listing = listings_per_page[i]
+
     title = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text
-    print(title)
+    make = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text.split(' ')[1]
+    year_model = each_listing.find_element_by_xpath(".//h2[@class='listing-row__title']").text.split(' ')[0]
+    price = each_listing.find_elements_by_xpath(".//div[@class='payment-section']")[0].text.split(' ')[0]
+    milage = each_listing.find_elements_by_xpath(".//div[@class='payment-section']")[0].text.split(' ')[-2]
+    exterior_color = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[1]").text.split(':')[1].strip()
+    interior_color = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[2]").text.split(':')[1].strip()
+    transmission = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[3]").text.split(':')[1].strip()
+    drivetrain = each_listing.find_element_by_xpath(".//ul[@class='listing-row__meta']//li[4]").text.split(':')[1].strip()
 
 
 
+    #add to dictionary
+    cars_dict['title'] = title
+    cars_dict['make'] = make
+    cars_dict['year_model'] = year_model
+    cars_dict['price'] = price
+    cars_dict['milage'] = milage
+    cars_dict['exterior_color']= exterior_color
+    cars_dict['interior_color'] = interior_color
+    cars_dict['transmission'] = transmission
+    cars_dict['drivetrain'] = drivetrain
 
+    writer.writerow(cars_dict.values())
+
+
+
+csv_file.close()
 
 
 #prices = [el.text for el in driver.find_elements_by_xpath("//span[contains(@class,'listing-row__price')]")]
@@ -61,4 +93,6 @@ for i in range(len(listings_per_page)):
 #print(len(title))
 #print(type(listing[1]))
 #next_button = driver.find_element_by_xpath('//a[@class="button next-page"]/div')
+
+driver.close()
 
