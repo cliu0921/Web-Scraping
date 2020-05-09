@@ -30,8 +30,32 @@ driver = webdriver.Chrome()
 #link_end = '&perPage=100&prMx=60000&rd=30&searchSource=PAGINATION&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=08544'
 
 #san fransisco
+#link_beginning = 'https://www.cars.com/for-sale/searchresults.action/?page='
+#link_end = '&perPage=100&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=94112'
+
+
+
+#chicago
+#link_beginning = 'https://www.cars.com/for-sale/searchresults.action/?page='
+#link_end = '&perPage=100&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=60525'
+
+#houston
+# link_beginning = 'https://www.cars.com/for-sale/searchresults.action/?page='
+# link_end = '&perPage=100&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=77030'
+
+#LA
+#link_beginning = 'https://www.cars.com/for-sale/searchresults.action/?page='
+#link_end = '&perPage=100&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=90012'
+
+#seattle
+#link_beginning = 'https://www.cars.com/for-sale/searchresults.action/?page='
+#link_end = '&perPage=100&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=98104'
+
+#boston
 link_beginning = 'https://www.cars.com/for-sale/searchresults.action/?page='
-link_end = '&perPage=100&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=94112'
+link_end = '&perPage=100&prMx=60000&rd=30&searchSource=GN_REFINEMENT&sort=relevance&stkTypId=28881&yrId=20141%2C20197%2C20142%2C20198%2C20143%2C20199%2C20144%2C20200%2C20145%2C20201%2C27381%2C34923%2C39723%2C47272%2C51683%2C56007%2C58487%2C30031936%2C35797618%2C36362520%2C36620293&zc=02115'
+
+
 
 #list of pages
 
@@ -43,7 +67,7 @@ links = []
 
 
 
-for i in range(1,50):
+for i in range(0,50):
     page_number = str(i)
     single_link = link_beginning + page_number + link_end
     links.append(single_link)
